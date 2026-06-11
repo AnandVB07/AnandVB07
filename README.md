@@ -4,7 +4,7 @@
 <h1 align="center">🚀 Anand VB</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Java+Developer;Trader+%26+Investor;Building+FinTech+Products;Future+Startup+Founder" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=2000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Java+Developer+%7C+Trader+%26+Investor+%7C+FinTech+Builder+%7C+Startup+Founder" />
 </p>
 
 <p align="center">
