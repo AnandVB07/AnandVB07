@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:0066FF&height=200&section=header&text=ANAND%20VB&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 <h1 align="center">🚀 Anand VB</h1>
 
 <p align="center">
