@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1500&color=00FFFF&center=true&vCenter=true&width=1400&lines=Java+Developer+%7C+DSA+Problem+Solver+%7C+Trader+%26+Investor+%7C+FinTech+Builder+%7C+Startup+Founder" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1500&color=00FFFF&center=true&vCenter=true&width=1000&lines=Code.+Trade.+Build.+Repeat.;Java+Developer+%7C+Trader;Building+the+Future+of+FinTech+🚀" />
 </p>
 <h1 align="center">🚀 Anand VB</h1>
 
