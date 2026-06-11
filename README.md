@@ -23,64 +23,21 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 👨‍💻 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%24+whoami;Anand+VB;Java+Developer;Trader+%26+Investor;FinTech+Builder" />
+</p>
 
-name: Anand VB
+- ☕ Java Developer passionate about building real-world applications
+- 🧩 Solving DSA problems and improving problem-solving skills
+- 📈 Interested in Trading, Investing, and Financial Markets
+- 💹 Exploring FinTech products and trading systems
+- 🌐 Portfolio: https://anand-vb.vercel.app/
+- 🚀 Goal: Become a Software Engineer and build impactful startups
+```
 
-role:
-  - Java Developer
-  - DSA Problem Solver
-
-interests:
-  - Trading
-  - Investing
-  - FinTech
-
-currently_learning:
-  - Networking
-  - Backend Development
-  - System Design
-
-building:
-  - Software Projects
-  - Startup Ideas
-  - Trading Systems
-
-status: ONLINE 🟢
-
-🌐 Portfolio
-https://anand-vb.vercel.app/
-
-📈 Focus Areas
-
-* Java
-* DSA
-* Trading
-* FinTech
-* Startups
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="YOUR_GIF_URL_HERE" width="350"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=350&lines=%24+whoami;Anand+VB;Java+Developer;Trader+%26+Investor;FinTech+Builder" />
-
-</td>
-</tr>
-</table>
-
-
-
----
 
 ## 🎯 Mission Control
 
