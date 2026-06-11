@@ -10,7 +10,9 @@
 <p align="center">
   Building skills, projects, and future startups.
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,mysql,vscode" />
+</p>
 <p align="center">
   <a href="https://anand-vb.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-38BDF8?style=for-the-badge" />
@@ -22,10 +24,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/☕_JAVA-22D3EE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈_TRADING-38BDF8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_STARTUPS-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💹_FINTECH-06B6D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk" />
+  <img src="https://img.shields.io/badge/DSA-38BDF8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trading-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/FinTech-8B5CF6?style=flat-square" />
 </p>
 
 ---
