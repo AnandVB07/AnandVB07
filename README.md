@@ -13,11 +13,11 @@
 
 <p align="center">
   <a href="https://anand-vb.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0F172A?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-38BDF8?style=for-the-badge" />
   </a>
-
+  
   <a href="https://github.com/AnandVB07">
-    <img src="https://img.shields.io/badge/💻_GitHub-Profile-1E293B?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-AnandVB07-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
