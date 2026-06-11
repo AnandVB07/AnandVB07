@@ -38,37 +38,66 @@
 - 🚀 Goal: Become a Software Engineer and build impactful startups
 
 
-
-## 💻 Tech Stack
 ## 💻 Tech Stack
 
 ### 🎨 Frontend Technologies
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-
-<br><br>
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=html" /></td>
+<td><img src="https://skillicons.dev/icons?i=css" /></td>
+<td><img src="https://skillicons.dev/icons?i=js" /></td>
+<td><img src="https://skillicons.dev/icons?i=react" /></td>
+<td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
+</tr>
+</table>
 
 ### ⚙️ Backend Technologies
 
-<img src="https://skillicons.dev/icons?i=nodejs" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+</tr>
+</table>
 
-<br><br>
+### 🗄️ Databases
 
-### 🗄️ Database & Cloud
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+<td><img src="https://skillicons.dev/icons?i=postgresql" /></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,vercel,netlify" />
+### ☁️ Deployment
 
-<br><br>
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=vercel" /></td>
+<td><img src="https://skillicons.dev/icons?i=netlify" /></td>
+</tr>
+</table>
 
 ### 🛠️ Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=git" /></td>
+<td><img src="https://skillicons.dev/icons?i=github" /></td>
+<td><img src="https://skillicons.dev/icons?i=vscode" /></td>
+<td><img src="https://skillicons.dev/icons?i=postman" /></td>
+<td><img src="https://skillicons.dev/icons?i=figma" /></td>
+</tr>
+</table>
 
-<br><br>
+### ☕ Programming Language
 
-### ☕ Programming Languages
-
-<img src="https://skillicons.dev/icons?i=java" />
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=java" /></td>
+</tr>
+</table>
 
 ## 📊 GitHub Analytics
 
