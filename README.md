@@ -40,59 +40,35 @@
 
 
 ## 💻 Tech Stack
-<h2 align="center">💻 Tech Stack</h2>
+## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,mysql,postgresql,git,github,vscode,postman,figma,java&perline=5" />
-</p>
+### 🎨 Frontend Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-<p align="center">
-  <b>Frontend</b>
-</p>
+<br><br>
 
-<br>
+### ⚙️ Backend Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
-<p align="center">
-  <b>Backend</b>
-</p>
+<br><br>
 
-<br>
+### 🗄️ Database & Cloud
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,vercel,netlify" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,vercel,netlify" />
 
-<p align="center">
-  <b>Database & Cloud</b>
-</p>
+<br><br>
 
-<br>
+### 🛠️ Development Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
-<p align="center">
-  <b>Development Tools</b>
-</p>
+<br><br>
 
-<br>
+### ☕ Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-<p align="center">
-  <b>Programming Language</b>
-</p>
+<img src="https://skillicons.dev/icons?i=java" />
 
 ## 📊 GitHub Analytics
 
