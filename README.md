@@ -36,31 +36,8 @@
 - 💹 Exploring FinTech products and trading systems
 - 🌐 Portfolio: https://anand-vb.vercel.app/
 - 🚀 Goal: Become a Software Engineer and build impactful startups
-```
 
 
-## 🎯 Mission Control
-
-* 🔄 Master Data Structures & Algorithms
-* 🔄 Build Real-World Java Projects
-* 🔄 Learn Networking Fundamentals
-* 📈 Study Financial Markets & Investing
-* 🚀 Build FinTech Products
-* 🎯 Become a Software Engineer
-
----
-
-## 🚀 Active Quests
-
-* [x] Learn Java Fundamentals
-* [x] Start Solving DSA Problems
-* [ ] Solve 500+ DSA Problems
-* [ ] Build Advanced Java Projects
-* [ ] Crack a Software Internship
-* [ ] Launch a FinTech Product
-* [ ] Build a Startup
-
----
 
 ## 💻 Tech Stack
 
@@ -140,9 +117,6 @@
 | Portfolio | https://anand-vb.vercel.app/ |
 | GitHub    | https://github.com/AnandVB07 |
 
----
 
 ⭐ **Code. Trade. Build. Repeat.**
 
-```
-```
