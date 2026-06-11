@@ -108,7 +108,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=transparent&hide_border=true"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </p>
 
 ## 📈 Beyond Coding
