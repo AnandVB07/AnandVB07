@@ -101,22 +101,20 @@
 
 
 ## 📊 GitHub Analytics
-## 👾 Contribution Pacman
-
-![Pacman animation](https://raw.githubusercontent.com/AnandVB07/AnandVB07/output/pacman-contribution-graph-dark.svg)
-## 📈 Contribution Graph
-
-[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnandVB07&theme=tokyo-night&hide_border=true)](https://github.com/AnandVB07)
-
+## 📊 GitHub Analytics
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=algolia&hide_border=true&rank_icon=github"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=algolia&hide_border=true"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnandVB07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="left">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnandVB07&theme=react-dark&hide_border=true"/>
 </p>
 
 ## 📈 Beyond Coding
