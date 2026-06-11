@@ -52,6 +52,9 @@ Goal: Software Engineer & FinTech Builder
 
 ## 💻 Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,git,github,mysql,vscode" />
+</p>
 ### Languages
 - Java
 - SQL
@@ -67,6 +70,16 @@ Goal: Software Engineer & FinTech Builder
 - Backend Development
 
 ---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=tokyonight"/>
+</p>
 
 ## 📊 Beyond Coding
 
