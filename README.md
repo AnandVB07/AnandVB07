@@ -99,17 +99,25 @@
 </tr>
 </table>
 
+
 ## 📊 GitHub Analytics
+## 👾 Contribution Pacman
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=tokyonight"/>
+![Pacman animation](https://raw.githubusercontent.com/AnandVB07/AnandVB07/output/pacman-contribution-graph-dark.svg)
+## 📈 Contribution Graph
+
+[![Anand's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AnandVB07&theme=tokyo-night&hide_border=true)](https://github.com/AnandVB07)
+
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=tokyonight"/>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnandVB07&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 📈 Beyond Coding
 
