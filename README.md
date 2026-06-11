@@ -40,9 +40,8 @@
 
 
 ## 💻 Tech Stack
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Loading+Tech+Stack...;Frontend+✓;Backend+✓;Database+✓;Tools+✓;Java+✓" />
-</p>
+<h2 align="center">💻 Tech Stack</h2>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,mysql,postgresql,git,github,vscode,postman,figma,java&perline=5" />
 </p>
