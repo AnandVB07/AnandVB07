@@ -147,21 +147,23 @@
 * Secure a Software Engineering Role
 
 ---
-
-## 🌐 Quick Access
-## 🌐 Quick Access
+## 🌐 Connect With Me
 
 <p>
-  <a href="https://anand-vb.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-38BDF8?style=for-the-badge" />
+  <a href="https://anand-vb.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/anandvb742006/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/anandvb742006/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
 
-  <a href="https://drive.google.com/drive/folders/1-DoXHPyjytuJ3Yia5czUJYPEhImxTRgU">
-    <img src="https://img.shields.io/badge/📄_Resume-Download-EA4335?style=for-the-badge" />
+  <a href="https://wa.me/919003926880" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
+  </a>
+
+  <a href="https://drive.google.com/drive/folders/1-DoXHPyjytuJ3Yia5czUJYPEhImxTRgU" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="50"/>
   </a>
 </p>
 
