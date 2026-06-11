@@ -102,17 +102,13 @@
 ## 📊 GitHub Analytics
 
 <p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=transparent&hide_border=true"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&hide_border=true"/>
-</p>
-
-<p>
-  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnandVB07&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=transparent&hide_border=true"/>
 </p>
 
 ## 📈 Beyond Coding
