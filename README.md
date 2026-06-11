@@ -41,63 +41,59 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Loading+Tech+Stack...;Frontend+Loaded+✓;Backend+Loaded+✓;Database+Loaded+✓;Developer+Mode+Activated+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Loading+Tech+Stack...;Frontend+✓;Backend+✓;Database+✓;Tools+✓;Java+✓" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,mysql,postgresql,git,github,vscode,postman,figma,java&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,mongodb,mysql,postgres,git,github,vscode,postman,figma,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
-<details open>
-<summary><b>🎨 Frontend Technologies</b></summary>
+
+<p align="center">
+  <b>Frontend</b>
+</p>
+
 <br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
-</details>
+<p align="center">
+  <b>Backend</b>
+</p>
 
-<details open>
-<summary><b>⚙️ Backend Technologies</b></summary>
 <br>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,vercel,netlify" />
+</p>
 
-</details>
+<p align="center">
+  <b>Database & Cloud</b>
+</p>
 
-<details open>
-<summary><b>🗄️ Database & Cloud</b></summary>
 <br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
 
-</details>
+<p align="center">
+  <b>Development Tools</b>
+</p>
 
-<details open>
-<summary><b>🛠️ Development Tools</b></summary>
 <br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
-</details>
-
-<details open>
-<summary><b>☕ Programming Languages</b></summary>
-<br>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-</details>
+<p align="center">
+  <b>Programming Language</b>
+</p>
 
 ## 📊 GitHub Analytics
 
