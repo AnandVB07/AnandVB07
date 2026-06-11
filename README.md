@@ -149,11 +149,21 @@
 ---
 
 ## 🌐 Quick Access
+## 🌐 Quick Access
 
-| Platform  | Link                         |
-| --------- | ---------------------------- |
-| Portfolio | https://anand-vb.vercel.app/ |
-| GitHub    | https://github.com/AnandVB07 |
+<p>
+  <a href="https://anand-vb.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-38BDF8?style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/anandvb742006/">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge" />
+  </a>
+
+  <a href="https://drive.google.com/drive/folders/1-DoXHPyjytuJ3Yia5czUJYPEhImxTRgU">
+    <img src="https://img.shields.io/badge/📄_Resume-Download-EA4335?style=for-the-badge" />
+  </a>
+</p>
 
 
 ⭐ **Code. Trade. Build. Repeat.**
