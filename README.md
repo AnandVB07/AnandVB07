@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./banner" width="100%">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Anand+VB;Java+Developer;DSA+Problem+Solver;Trader+%26+Investor;Building+FinTech+Products;Future+Startup+Founder" />
 </p>
 
