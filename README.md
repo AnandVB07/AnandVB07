@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,100:38BDF8&height=220&section=header&text=ANAND%20VB&fontSize=65&fontColor=ffffff&animation=twinkling" />
 </p>
+
 <h1 align="center">🚀 Anand VB</h1>
 
 <p align="center">
@@ -15,7 +16,6 @@
   <a href="https://anand-vb.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-38BDF8?style=for-the-badge" />
   </a>
-  
   <a href="https://github.com/AnandVB07">
     <img src="https://img.shields.io/badge/GitHub-AnandVB07-181717?style=for-the-badge&logo=github" />
   </a>
@@ -23,14 +23,13 @@
 
 ---
 
-````html
 <h2 align="center">👨‍💻 About Me</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-```yaml
+
 name: Anand VB
 
 role:
@@ -53,7 +52,6 @@ building:
   - Trading Systems
 
 status: ONLINE 🟢
-````
 
 🌐 Portfolio
 https://anand-vb.vercel.app/
@@ -79,19 +77,8 @@ https://anand-vb.vercel.app/
 </td>
 </tr>
 </table>
-```
 
-## 📡 System Status
 
-```yaml
-Name: Anand VB
-Status: Online
-Current Focus: Java + DSA
-Learning: Networking
-Interest: Trading & Investing
-Goal: Software Engineer & FinTech Builder
-Portfolio: https://anand-vb.vercel.app/
-````
 
 ---
 
