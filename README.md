@@ -99,21 +99,19 @@
 </tr>
 </table>
 
-
-## 📊 GitHub Analytics
 ## 📊 GitHub Analytics
 
-<p align="left">
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=algolia&hide_border=true&rank_icon=github"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=algolia&hide_border=true"/>
 </p>
 
-<p align="left">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=algolia&hide_border=true"/>
 </p>
 
-<p align="left">
+<p>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnandVB07&theme=react-dark&hide_border=true"/>
 </p>
 
