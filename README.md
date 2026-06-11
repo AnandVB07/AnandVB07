@@ -99,16 +99,14 @@
 </tr>
 </table>
 
-## 📊 GitHub Analytics
-
 <p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=00E5FF&icon_color=00E5FF"/>
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=00E5FF"/>
 </p>
 
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 </p>
 
 ## 📈 Beyond Coding
