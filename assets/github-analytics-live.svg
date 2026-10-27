@@ -27,7 +27,7 @@
 <rect x="78" y="291" width="52" height="45" rx="12" fill="#0B2338" stroke="#119DC5"/>
 <g transform="translate(88 298)" fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="15" cy="15" r="12"/><path d="M15 8v9l6 4"/></g>
 <text x="154" y="320" text-anchor="start" fill="#CBDEF1" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400">Commits (past year)</text>
-<text x="616" y="320" text-anchor="end" fill="#00E9EF" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">96</text>
+<text x="616" y="320" text-anchor="end" fill="#00E9EF" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">100</text>
 <path d="M151 336H616" stroke="#203E53"/>
 <rect x="78" y="348" width="52" height="45" rx="12" fill="#0B2338" stroke="#119DC5"/>
 <g transform="translate(88 355)" fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="3"/><circle cx="6" cy="26" r="3"/><circle cx="25" cy="26" r="3"/><path d="M6 8v15M25 23v-7c0-5-9-4-9-10m0 0-4 4m4-4 4 4"/></g>
@@ -53,24 +53,24 @@
 <text x="1151" y="210" text-anchor="start" fill="#00E5EF" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Languages</text>
 <rect x="969" y="295" width="573" height="40" rx="20" fill="#091D30" stroke="#2D506D" stroke-width="1.5"/>
 <g clip-path="url(#bar)">
-<rect x="976.00" y="300" width="214.60" height="30" fill="#F7D94E"/>
-<rect x="1190.60" y="300" width="112.61" height="30" fill="#247DFA"/>
-<rect x="1303.20" y="300" width="94.59" height="30" fill="#FF7B24"/>
-<rect x="1397.79" y="300" width="69.79" height="30" fill="#F65444"/>
-<rect x="1467.58" y="300" width="38.06" height="30" fill="#468FDA"/>
-<rect x="1505.64" y="300" width="28.48" height="30" fill="#963EDC"/>
+<rect x="976.00" y="300" width="215.04" height="30" fill="#F7D94E"/>
+<rect x="1191.04" y="300" width="112.84" height="30" fill="#247DFA"/>
+<rect x="1303.87" y="300" width="94.78" height="30" fill="#FF7B24"/>
+<rect x="1398.66" y="300" width="69.93" height="30" fill="#F65444"/>
+<rect x="1468.59" y="300" width="36.99" height="30" fill="#468FDA"/>
+<rect x="1505.58" y="300" width="28.54" height="30" fill="#963EDC"/>
 </g>
 <circle cx="990" cy="391" r="9" fill="#F7D94E"/>
 <text x="1010" y="399" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">JavaScript</text>
-<text x="1260" y="399" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">38.4%</text>
+<text x="1260" y="399" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">38.5%</text>
 <path d="M1010 412H1260" stroke="#1D3952"/>
 <circle cx="1275" cy="391" r="9" fill="#247DFA"/>
 <text x="1295" y="399" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">TypeScript</text>
-<text x="1545" y="399" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">20.1%</text>
+<text x="1545" y="399" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">20.2%</text>
 <path d="M1295 412H1545" stroke="#1D3952"/>
 <circle cx="990" cy="453" r="9" fill="#FF7B24"/>
 <text x="1010" y="461" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">Jupyter Noteb...</text>
-<text x="1260" y="461" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">16.9%</text>
+<text x="1260" y="461" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">17.0%</text>
 <path d="M1010 474H1260" stroke="#1D3952"/>
 <circle cx="1275" cy="453" r="9" fill="#F65444"/>
 <text x="1295" y="461" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">HTML</text>
@@ -78,14 +78,14 @@
 <path d="M1295 474H1545" stroke="#1D3952"/>
 <circle cx="990" cy="515" r="9" fill="#468FDA"/>
 <text x="1010" y="523" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">Python</text>
-<text x="1260" y="523" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">6.8%</text>
+<text x="1260" y="523" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">6.6%</text>
 <circle cx="1275" cy="515" r="9" fill="#963EDC"/>
 <text x="1295" y="523" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">CSS</text>
 <text x="1545" y="523" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">5.1%</text>
 <rect x="52" y="602" width="488" height="237" rx="20" fill="url(#blue)" stroke="#099CEB" stroke-width="1.6"/>
 <rect x="80" y="635" width="90" height="90" rx="17" fill="#092038" stroke="#099CEB"/>
 <g transform="translate(110 664)" fill="none" stroke="#099CEB" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 27V16M10 27V11M18 27V18M26 27V4"/></g>
-<text x="200" y="691" text-anchor="start" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700">148</text>
+<text x="200" y="691" text-anchor="start" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700">152</text>
 <text x="200" y="735" text-anchor="start" fill="#E6F4FF" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Total Contributions</text>
 <text x="83" y="804" text-anchor="start" fill="#A2BED4" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">Since Aug 2024</text>
 <rect x="414" y="777" width="14" height="22" rx="6" fill="#0E8BC7" opacity=".20"/>
@@ -110,5 +110,5 @@
 <rect x="1488" y="762" width="14" height="37" rx="6" fill="#905CFA" opacity=".24"/>
 <rect x="1512" y="747" width="14" height="52" rx="6" fill="#905CFA" opacity=".24"/>
 <rect x="1536" y="729" width="14" height="70" rx="6" fill="#905CFA" opacity=".24"/>
-<text x="1566" y="855" text-anchor="end" fill="#7697B5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400">Updated 27 Oct 2026 · 08:55 UTC · scheduled refresh</text>
+<text x="1566" y="855" text-anchor="end" fill="#7697B5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400">Updated 27 Oct 2026 · 09:10 UTC · scheduled refresh</text>
 </svg>
