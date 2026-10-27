@@ -25,30 +25,11 @@
 
 ## 📊 GitHub Analytics
 
-<!-- Live GitHub widgets: figures are fetched by third-party services and refresh after their caches expire. -->
 <div align="center">
-
   <a href="https://github.com/AnandVB07">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=071421&amp;title_color=00E5FF&amp;text_color=E8F4FF&amp;icon_color=00E5FF&amp;border_color=1B537A&amp;border_radius=12" alt="Live GitHub profile statistics for AnandVB07" />
+    <img src="./assets/github-analytics-live.svg" width="100%" alt="Live GitHub Analytics: GitHub statistics, most used languages, total contributions, current streak and longest streak" />
   </a>
-  <a href="https://github.com/AnandVB07?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&amp;layout=compact&amp;langs_count=8&amp;bg_color=071421&amp;title_color=00E5FF&amp;text_color=E8F4FF&amp;border_color=1B537A&amp;border_radius=12" alt="Live most used languages across GitHub repositories" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/AnandVB07">
-    <img width="79%" src="https://streak-stats.demolab.com/?user=AnandVB07&amp;background=071421&amp;border=1B537A&amp;stroke=1B537A&amp;ring=00E5FF&amp;fire=00E5FF&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00E5FF&amp;sideLabels=00D5EB&amp;dates=A3B3CC&amp;card_width=800&amp;card_height=210&amp;border_radius=12" alt="Live total contributions, current streak, and longest streak" />
-  </a>
-
-  <br />
-
-  <a href="https://github.com/AnandVB07">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnandVB07&amp;bg_color=071421&amp;color=B9CBDD&amp;title_color=00E5FF&amp;line=00CFF5&amp;point=FFFFFF&amp;area_color=006CB2&amp;area=true&amp;border_color=1B537A&amp;radius=12&amp;days=35" alt="Live GitHub contribution activity graph" />
-  </a>
-
-  <sub>Live GitHub statistics · Refresh timing depends on the widget services' caching.</sub>
-
+  <sub>Automatically refreshed from GitHub every 6 hours. Scheduled updates may be delayed by GitHub Actions.</sub>
 </div>
 
 ---
