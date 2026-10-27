@@ -5,6 +5,8 @@
 <p>
 <a href="https://anand-vb.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-0B172B?style=for-the-badge&labelColor=103C68&color=008CE8" alt="Visit portfolio" /></a>&nbsp;
 <a href="https://github.com/AnandVB07?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Projects-0B172B?style=for-the-badge&logo=github&logoColor=white&labelColor=103C68&color=008CE8" alt="View GitHub projects" /></a>
+<a href="https://www.linkedin.com/in/anandvb742006/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B172B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=103C68&color=008CE8" alt="LinkedIn profile" /></a>&nbsp;
+<a href="https://codolio.com/profile/anandvb07/"><img src="https://img.shields.io/badge/Codolio-DSA%20Profile-0B172B?style=for-the-badge&labelColor=103C68&color=008CE8" alt="Codolio profile" /></a>
 </p>
 
 </div>
@@ -14,7 +16,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%24+whoami;Anand+VB;Java+Developer;Trader+%26+Investor;FinTech+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%24+whoami;Anand+VB;Java+Developer;MERN+Stack+Developer;FinTech+Builder" />
 </p>
 
 - ☕ Java Developer passionate about building real-world applications
@@ -103,7 +105,7 @@
 
 ## 📈 Beyond Coding
 
-* 📈 Interested in Stock Market & Investing
+* 💻 Exploring full-stack applications with the MERN stack
 * 💹 Exploring Trading Systems
 * 🤖 Interested in AI + Trading Applications
 * 🚀 Building FinTech Startup Ideas
@@ -155,5 +157,5 @@
 </p>
 
 
-⭐ **Code. Trade. Build. Repeat.**
+⭐ **Code. Create. Build. Repeat.**
 
