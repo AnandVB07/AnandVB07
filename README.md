@@ -19,64 +19,9 @@
 
 ## 💻 Tech Stack
 
-### 🎨 Frontend Technologies
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=html" /></td>
-<td><img src="https://skillicons.dev/icons?i=css" /></td>
-<td><img src="https://skillicons.dev/icons?i=js" /></td>
-<td><img src="https://skillicons.dev/icons?i=react" /></td>
-<td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
-</tr>
-</table>
-
-### ⚙️ Backend Technologies
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
-</tr>
-</table>
-
-### 🗄️ Databases
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
-<td><img src="https://skillicons.dev/icons?i=mysql" /></td>
-<td><img src="https://skillicons.dev/icons?i=postgresql" /></td>
-</tr>
-</table>
-
-### ☁️ Deployment
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=vercel" /></td>
-<td><img src="https://skillicons.dev/icons?i=netlify" /></td>
-</tr>
-</table>
-
-### 🛠️ Development Tools
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=git" /></td>
-<td><img src="https://skillicons.dev/icons?i=github" /></td>
-<td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-<td><img src="https://skillicons.dev/icons?i=postman" /></td>
-<td><img src="https://skillicons.dev/icons?i=figma" /></td>
-</tr>
-</table>
-
-### ☕ Programming Language
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=java" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="./assets/tech-stack-neon.svg" width="100%" alt="Tech Stack: frontend HTML, CSS, JavaScript, React, Bootstrap; backend Node.js and Express.js; MongoDB, MySQL, PostgreSQL; Vercel, Netlify; Git, GitHub, VS Code, Postman, Figma; Java" />
+</p>
 
 ## 📊 GitHub Analytics
 
