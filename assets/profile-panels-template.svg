@@ -1,184 +1,165 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="1035" viewBox="0 0 1360 1035" role="img" aria-labelledby="title desc">
-<title id="title">Beyond Coding, Project Galaxy and 2026 Goals</title>
-<desc id="desc">Three stylish dark neon blue panels with illustrated laptop, planet and mountain. GitHub repository metadata and refresh time update automatically, while interests and career goals are fixed.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1080" viewBox="0 0 1400 1080" role="img" aria-labelledby="title description">
+<title id="title">Beyond Coding, Project Galaxy, and 2026 Goals</title>
+<desc id="description">Three aligned neon-blue panels showing Anand VB's interests, project galaxy, and goals. GitHub public repositories: [[REPO_COUNT]]. Portfolio: [[PORTFOLIO_UPDATED]]. FinTech: [[FINTECH_UPDATED]].</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030B18"/><stop offset=".5" stop-color="#061B32"/><stop offset="1" stop-color="#030B1B"/></linearGradient>
-<linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081D36"/><stop offset=".67" stop-color="#03142B"/><stop offset="1" stop-color="#04224C"/></linearGradient>
-<linearGradient id="line"><stop stop-color="#04DFFF"/><stop offset="1" stop-color="#3773FB"/></linearGradient>
-<linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6CF7FF"/><stop offset=".5" stop-color="#1488EC"/><stop offset="1" stop-color="#4039BB"/></linearGradient>
-<radialGradient id="planet" cx=".27" cy=".21" r=".8"><stop stop-color="#41E7FD"/><stop offset=".25" stop-color="#0A9DDD"/><stop offset=".6" stop-color="#08428D"/><stop offset="1" stop-color="#08193D"/></radialGradient>
-<radialGradient id="haze"><stop stop-color="#115FD0" stop-opacity=".43"/><stop offset="1" stop-color="#115FD0" stop-opacity="0"/></radialGradient>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
-<clipPath id="clip1"><rect x="29" y="20" width="1302" height="312" rx="20"/></clipPath>
-<clipPath id="clip2"><rect x="29" y="354" width="1302" height="320" rx="20"/></clipPath>
-<clipPath id="clip3"><rect x="29" y="695" width="1302" height="315" rx="20"/></clipPath>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#030C1A"/><stop offset=".5" stop-color="#031429"/><stop offset="1" stop-color="#041127"/></linearGradient>
+<linearGradient id="panel" x2="1" y2="1"><stop stop-color="#07192E"/><stop offset=".68" stop-color="#031026"/><stop offset="1" stop-color="#051E48"/></linearGradient>
+<linearGradient id="iconBg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#114277"/><stop offset=".55" stop-color="#092046"/><stop offset="1" stop-color="#060C29"/></linearGradient>
+<linearGradient id="screen"><stop stop-color="#123F7E"/><stop offset="1" stop-color="#071F4B"/></linearGradient>
+<linearGradient id="keyboard" x2="1" y2="1"><stop stop-color="#145595"/><stop offset=".7" stop-color="#043B76"/><stop offset="1" stop-color="#041E4F"/></linearGradient>
+<linearGradient id="orbit" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7EF9FF"/><stop offset=".4" stop-color="#0092F4"/><stop offset="1" stop-color="#164EC4"/></linearGradient>
+<radialGradient id="planet" cx=".29" cy=".22" r=".85"><stop stop-color="#46E7FF"/><stop offset=".25" stop-color="#068BDA"/><stop offset=".65" stop-color="#0855A8"/><stop offset="1" stop-color="#011239"/></radialGradient>
+<radialGradient id="moon" cx=".25" cy=".22" r=".85"><stop stop-color="#2CE5FF"/><stop offset=".4" stop-color="#116ECB"/><stop offset="1" stop-color="#07102B"/></radialGradient>
+<radialGradient id="haze"><stop stop-color="#1469D7" stop-opacity=".48"/><stop offset="1" stop-color="#1469D7" stop-opacity="0"/></radialGradient>
+<linearGradient id="mount" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#104A8D"/><stop offset=".52" stop-color="#062C67"/><stop offset="1" stop-color="#051631"/></linearGradient>
+<filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%"><feDropShadow dx="0" dy="0" stdDeviation="5" flood-color="#03AAFF" flood-opacity=".33"/></filter>
+<filter id="brightGlow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="11"/></filter>
+<clipPath id="p1"><rect x="30" y="24" width="1340" height="320" rx="23"/></clipPath>
+<clipPath id="p2"><rect x="30" y="368" width="1340" height="352" rx="23"/></clipPath>
+<clipPath id="p3"><rect x="30" y="744" width="1340" height="310" rx="23"/></clipPath>
+<style>.heading{font-family:Arial,Helvetica,sans-serif;font-size:36px;font-weight:800;letter-spacing:-.5px}.kicker{font-family:Arial,Helvetica,sans-serif;fill:#A8B7D5;font-size:13px;font-weight:700;letter-spacing:2.7px}text{font-family:Arial,Helvetica,sans-serif;}</style>
 </defs>
-<rect width="1360" height="1035" rx="18" fill="url(#bg)"/>
-<rect x="29" y="20" width="1302" height="312" rx="20" fill="url(#panel)" stroke="#01BFFC" stroke-width="1.7"/>
-<rect x="29" y="354" width="1302" height="320" rx="20" fill="url(#panel)" stroke="#03B8FB" stroke-width="1.7"/>
-<rect x="29" y="695" width="1302" height="315" rx="20" fill="url(#panel)" stroke="#03B8FB" stroke-width="1.7"/>
-<!-- subdued stars -->
-<g fill="#49BAFC" opacity=".65"><circle cx="1131" cy="47" r="1.2"/><circle cx="1224" cy="85" r="1.2"/><circle cx="1168" cy="387" r="1.3"/><circle cx="1234" cy="450" r="1.4"/><circle cx="1061" cy="752" r="1.4"/><circle cx="1231" cy="899" r="1.3"/></g>
-<rect x="63" y="49" width="65" height="65" rx="17" fill="#081D38" stroke="#09BDFB" stroke-width="1.8"/>
-<g transform="translate(77,63)" stroke="#09BDFB" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 29h32M8 25l9-9 7 4 10-14M28 6h6v6"/></g>
-<text x="153" y="88" fill="#F9FBFF" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="0">Beyond</text>
-<text x="283" y="88" fill="#06CBFB" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="0">Coding</text>
-<text x="154" y="114" fill="#99B4D2" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing="3">IDEAS   |   EXPLORATION   |   WHAT DRIVES ME</text>
-<path d="M618 105H970" stroke="url(#line)" stroke-width="1.4"/>
-<circle cx="970" cy="105" r="4" fill="#2CF4FE"/>
+<rect width="1400" height="1080" fill="url(#bg)"/>
+<rect x="30" y="24" width="1340" height="320" rx="23" fill="url(#panel)" stroke="#00BFFF" stroke-width="1.8"/><rect x="34" y="28" width="1332" height="312" rx="20" fill="none" stroke="#0B66B6" stroke-opacity=".35" stroke-width="3"/><rect x="30" y="368" width="1340" height="352" rx="23" fill="url(#panel)" stroke="#00BFFF" stroke-width="1.8"/><rect x="34" y="372" width="1332" height="344" rx="20" fill="none" stroke="#0B66B6" stroke-opacity=".35" stroke-width="3"/><rect x="30" y="744" width="1340" height="310" rx="23" fill="url(#panel)" stroke="#00BFFF" stroke-width="1.8"/><rect x="34" y="748" width="1332" height="302" rx="20" fill="none" stroke="#0B66B6" stroke-opacity=".35" stroke-width="3"/>
+<circle cx="1050" cy="36" r="2" fill="#C6EEFF" opacity=".68"/><circle cx="1097" cy="115" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1144" cy="194" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1191" cy="273" r="1" fill="#C6EEFF" opacity=".31"/><circle cx="1238" cy="352" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1285" cy="431" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1332" cy="510" r="1" fill="#C6EEFF" opacity=".68"/><circle cx="1059" cy="589" r="2" fill="#26B6FF" opacity=".31"/><circle cx="1106" cy="668" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1153" cy="747" r="1" fill="#C6EEFF" opacity=".31"/><circle cx="1200" cy="826" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1247" cy="905" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1294" cy="984" r="1" fill="#C6EEFF" opacity=".68"/><circle cx="1341" cy="58" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1068" cy="137" r="2" fill="#26B6FF" opacity=".31"/><circle cx="1115" cy="216" r="1" fill="#C6EEFF" opacity=".31"/><circle cx="1162" cy="295" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1209" cy="374" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1256" cy="453" r="1" fill="#C6EEFF" opacity=".68"/><circle cx="1303" cy="532" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1350" cy="611" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1077" cy="690" r="2" fill="#C6EEFF" opacity=".31"/><circle cx="1124" cy="769" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1171" cy="848" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1218" cy="927" r="1" fill="#C6EEFF" opacity=".68"/><circle cx="1265" cy="1006" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1312" cy="80" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1359" cy="159" r="1" fill="#C6EEFF" opacity=".31"/><circle cx="1086" cy="238" r="2" fill="#26B6FF" opacity=".31"/><circle cx="1133" cy="317" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1180" cy="396" r="1" fill="#C6EEFF" opacity=".68"/><circle cx="1227" cy="475" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1274" cy="554" r="1" fill="#26B6FF" opacity=".31"/><circle cx="1321" cy="633" r="1" fill="#C6EEFF" opacity=".31"/>
+<rect x="69" y="46" width="82" height="82" rx="18" fill="#091A36" stroke="#13BFFF" stroke-width="2.5" filter="url(#softGlow)"/>
+ <rect x="73" y="50" width="74" height="74" rx="15" fill="url(#iconBg)" stroke="#16B7FB" stroke-width="1.4"/>
+ <g transform="translate(84 60) scale(0.8125)" color="#00CFFF" stroke="#00CFFF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M8 40 24 26 35 33 55 11M42 11h13v13M9 49h10V38H9ZM26 49h10V31H26ZM43 49h10V21H43Z"/></g>
+ <text x="177" y="90" class="heading" fill="#F9FBFF">Beyond</text>
+ <text x="321" y="90" class="heading" fill="#05C9F9">Coding</text>
+ <text x="178" y="120" class="kicker">IDEAS  |  EXPLORATION  |  WHAT DRIVES ME</text>
+ <line x1="620" y1="113" x2="992" y2="113" stroke="#08B6EF" stroke-width="1.5"/><circle cx="992" cy="113" r="4.1" fill="#14F3FF"/>
 <g>
-<rect x="64" y="143" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="151" width="49" height="49" rx="12" fill="#08213B" stroke="#25B8FE" stroke-opacity=".65"/>
-<g transform="translate(78,157)" stroke="#25B8FE" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="4" y="5" width="30" height="22" rx="3"/><path d="M1 32h36l-4-5H5Z"/></g>
-<text x="135" y="169" fill="#25B8FE" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">MERN Stack Developer</text>
-<text x="135" y="191" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Full-stack apps and user experiences</text>
-</g>
+ <rect x="69" y="145" width="486" height="82" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="79" y="149" width="74" height="74" rx="16" fill="#091831" stroke="#13CFFF" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="83" y="153" width="66" height="66" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(93 163) scale(0.71875)" color="#13CFFF" stroke="#13CFFF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="10" y="12" width="44" height="31" rx="4"/><path d="M5 49h55l-6-6H11Z"/></g>
+ <text x="180" y="171" font-size="20" fill="#F5F8FF">Exploring full-stack applications</text><text x="180" y="205" font-size="21" font-weight="700" fill="#13CFFF">with the MERN stack</text>
+ </g>
 <g>
-<rect x="506" y="143" width="420" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="514" y="151" width="49" height="49" rx="12" fill="#08213B" stroke="#37D8C5" stroke-opacity=".65"/>
-<g transform="translate(520,157)" stroke="#37D8C5" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 29h32M8 25l9-9 7 4 10-14M28 6h6v6"/></g>
-<text x="577" y="169" fill="#37D8C5" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Trading Systems</text>
-<text x="577" y="191" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Markets and financial workflows</text>
-</g>
+ <rect x="575" y="145" width="469" height="82" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="585" y="149" width="74" height="74" rx="16" fill="#091831" stroke="#2BF2D1" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="589" y="153" width="66" height="66" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(599 163) scale(0.71875)" color="#2BF2D1" stroke="#2BF2D1" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M12 16v35M28 8v39M44 12v38M8 24h8v16H8ZM24 16h8v19h-8ZM40 27h8v15h-8Z"/></g>
+ <text x="686" y="171" font-size="20" fill="#F5F8FF">Exploring</text><text x="686" y="205" font-size="21" font-weight="700" fill="#2BF2D1">Trading Systems</text>
+ </g>
 <g>
-<rect x="64" y="220" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="228" width="49" height="49" rx="12" fill="#08213B" stroke="#B080FE" stroke-opacity=".65"/>
-<g transform="translate(78,234)" stroke="#B080FE" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="6" y="10" width="27" height="23" rx="8"/><path d="M12 10V5h15v5M12 20h3m9 0h3m-13 7q6 5 12 0"/></g>
-<text x="135" y="246" fill="#B080FE" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">AI + Trading Applications</text>
-<text x="135" y="268" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Exploring applied AI ideas</text>
-</g>
+ <rect x="69" y="238" width="486" height="82" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="79" y="242" width="74" height="74" rx="16" fill="#091831" stroke="#D184FF" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="83" y="246" width="66" height="66" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(93 256) scale(0.71875)" color="#D184FF" stroke="#D184FF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="8" y="20" width="48" height="33" rx="11"/><path d="M32 20V8m-6 0h12m-17 29h5m13 0h5M19 44q13 9 26 0"/><circle cx="18" cy="8" r="2" fill="currentColor"/></g>
+ <text x="180" y="264" font-size="20" fill="#F5F8FF">Interested in</text><text x="180" y="298" font-size="21" font-weight="700" fill="#D184FF">AI + Trading Applications</text>
+ </g>
 <g>
-<rect x="506" y="220" width="420" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="514" y="228" width="49" height="49" rx="12" fill="#08213B" stroke="#FF83A9" stroke-opacity=".65"/>
-<g transform="translate(520,234)" stroke="#FF83A9" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M11 26l-5 9 10-6M12 21Q17 6 31 4q4 15-11 21l-8-4zm4 4-3 5M29 6l5 5"/><circle cx="24" cy="14" r="3"/></g>
-<text x="577" y="246" fill="#FF83A9" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">FinTech Startup Ideas</text>
-<text x="577" y="268" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Building useful products</text>
+ <rect x="575" y="238" width="469" height="82" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="585" y="242" width="74" height="74" rx="16" fill="#091831" stroke="#FF7CAE" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="589" y="246" width="66" height="66" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(599 256) scale(0.71875)" color="#FF7CAE" stroke="#FF7CAE" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M22 39C25 18 43 9 57 7c0 16-9 34-32 36ZM32 27l5 5M24 42 12 54l4-16M20 23l-9-2 16-8"/><circle cx="44" cy="21" r="5"/></g>
+ <text x="686" y="264" font-size="20" fill="#F5F8FF">Building</text><text x="686" y="298" font-size="21" font-weight="700" fill="#FF7CAE">FinTech Startup Ideas</text>
+ </g>
+<g clip-path="url(#p1)">
+<ellipse cx="1190" cy="228" rx="190" ry="180" fill="url(#haze)"/>
+<path d="M1148 130L1338 164L1313 291L1119 257Z" fill="#021027" stroke="#1169AD" stroke-width="6"/>
+<path d="M1163 144L1321 172L1302 273L1138 246Z" fill="url(#screen)" stroke="#11B5FE" stroke-width="2.2"/>
+<path d="M1173 209l28-21-28-20m84 17 23 28-29 18" fill="none" stroke="#28D5FF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1120 257L1314 291L1361 322L1146 295Z" fill="url(#keyboard)" stroke="#087AD1" stroke-width="2"/>
+<path d="M1148 276L1309 303" fill="none" stroke="#2387D0" stroke-width="13" stroke-dasharray="18 7"/>
+<path d="M1147 294L1359 323L1352 335L1150 308Z" fill="#042654"/>
+<path d="M1080 152h39v43h-39z" rx="8" fill="#0A2448" stroke="#1A94E8" stroke-width="1.5" transform="rotate(-15 1095 160)"/>
+<g transform="translate(1091 160) scale(0.40625)" color="#31D6FF" stroke="#31D6FF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M8 40 24 26 35 33 55 11M42 11h13v13M9 49h10V38H9ZM26 49h10V31H26ZM43 49h10V21H43Z"/></g>
+<path d="M1329 108l4 9 9 4-9 4-4 9-4-9-9-4 9-4z" fill="#55E5FF"/>
 </g>
-<!-- laptop illustration, right -->
-<g clip-path="url(#clip1)">
-<ellipse cx="1138" cy="250" rx="240" ry="200" fill="url(#haze)"/>
-<path d="M1052 143l191 26-21 110-190-30z" fill="#05112B" stroke="#136FBC" stroke-width="4"/>
-<path d="M1066 158l157 23-16 78-158-22z" fill="#0B376B" stroke="#18C6FF" stroke-width="2"/>
-<path d="M1091 211l27-19-27-19m82 9 22 23-27 18" fill="none" stroke="#41CEFF" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
-<path d="M1030 251l192 29 36 26-223-23z" fill="#0C3A70" stroke="#329DEB" stroke-width="2"/>
-<path d="M1053 269l160 22" stroke="#2984CA" stroke-width="9" stroke-dasharray="19 6"/>
-<g stroke="#2C91CE" fill="none" opacity=".6"><path d="M1018 125l22-18m193 38 24-8m-242 158-36 9"/></g>
-</g>
-<rect x="63" y="383" width="65" height="65" rx="17" fill="#081D38" stroke="#14D9FF" stroke-width="1.8"/>
-<g transform="translate(77,397)" stroke="#14D9FF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="3" y="5" width="32" height="29" rx="5"/><path d="M10 11h18v9H10zM8 29h24"/></g>
-<text x="153" y="422" fill="#F9FBFF" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="0">Project</text>
-<text x="272" y="422" fill="#06CBFB" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="0">Galaxy</text>
-<text x="154" y="448" fill="#99B4D2" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing="3">PROJECTS   |   LEARNING   |   HANDS-ON EXPERIENCE</text>
-<path d="M618 439H970" stroke="url(#line)" stroke-width="1.4"/>
-<circle cx="970" cy="439" r="4" fill="#2CF4FE"/>
+<rect x="69" y="390" width="82" height="82" rx="18" fill="#091A36" stroke="#13BFFF" stroke-width="2.5" filter="url(#softGlow)"/>
+ <rect x="73" y="394" width="74" height="74" rx="15" fill="url(#iconBg)" stroke="#16B7FB" stroke-width="1.4"/>
+ <g transform="translate(84 404) scale(0.8125)" color="#13D1FC" stroke="#13D1FC" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><ellipse cx="32" cy="33" rx="30" ry="12" transform="rotate(-23 32 33)"/><circle cx="32" cy="33" r="19"/><path d="M53 15l3-8m4 15 7-2"/></g>
+ <text x="177" y="434" class="heading" fill="#F9FBFF">Project</text>
+ <text x="330" y="434" class="heading" fill="#05C9F9">Galaxy</text>
+ <text x="178" y="464" class="kicker">PROJECTS  |  LEARNING  |  HANDS-ON EXPERIENCE</text>
+ <line x1="665" y1="457" x2="992" y2="457" stroke="#08B6EF" stroke-width="1.5"/><circle cx="992" cy="457" r="4.1" fill="#14F3FF"/>
 <g>
-<rect x="64" y="473" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="481" width="49" height="49" rx="12" fill="#08213B" stroke="#35C5FF" stroke-opacity=".65"/>
-<g transform="translate(78,487)" stroke="#35C5FF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><ellipse cx="19" cy="7" rx="14" ry="5"/><path d="M5 7v24q14 9 28 0V7M5 18q14 8 28 0"/></g>
-<text x="135" y="499" fill="#35C5FF" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">DSA Universe</text>
-<text x="135" y="521" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Data Structures &amp; Algorithms</text>
-</g>
+ <rect x="69" y="485" width="486" height="67" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="79" y="490" width="57" height="57" rx="14" fill="#091831" stroke="#13CFFF" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="83" y="494" width="49" height="49" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(88.5 499.5) scale(0.59375)" color="#13CFFF" stroke="#13CFFF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><ellipse cx="32" cy="14" rx="24" ry="8"/><path d="M8 14v34c0 11 48 11 48 0V14M8 30c0 10 48 10 48 0"/></g>
+ <text x="173" y="515" font-size="21" font-weight="700" fill="#13CFFF">DSA Universe —</text><text x="173" y="537" font-size="18" fill="#E2E9FA">Data Structures &amp;amp; Algorithms</text>
+ </g>
 <g>
-<rect x="506" y="473" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="514" y="481" width="49" height="49" rx="12" fill="#08213B" stroke="#C58AFF" stroke-opacity=".65"/>
-<g transform="translate(520,487)" stroke="#C58AFF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="3" y="6" width="32" height="26" rx="4"/><path d="M3 12h32M8 9h2m5 0h2M9 19h13v8H9Z"/></g>
-<text x="577" y="499" fill="#C58AFF" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Portfolio Website</text>
-<text x="577" y="521" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">[[PORTFOLIO_UPDATED]]</text>
-</g>
+ <rect x="575" y="485" width="469" height="67" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="585" y="490" width="57" height="57" rx="14" fill="#091831" stroke="#D184FF" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="589" y="494" width="49" height="49" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(594.5 499.5) scale(0.59375)" color="#D184FF" stroke="#D184FF" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="8" y="10" width="48" height="45" rx="6"/><path d="M8 22h48M16 16h3M25 16h3M16 31h18v15H16ZM42 33h7M42 42h7"/></g>
+ <text x="679" y="515" font-size="21" font-weight="700" fill="#D184FF">Portfolio Website —</text><text x="679" y="537" font-size="18" fill="#E2E9FA">Personal Portfolio</text>
+ </g>
 <g>
-<rect x="64" y="551" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="559" width="49" height="49" rx="12" fill="#08213B" stroke="#FFB86A" stroke-opacity=".65"/>
-<g transform="translate(78,565)" stroke="#FFB86A" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M17 3c5 6-6 9 0 15M11 15c5 4-1 5 1 9M4 27q14 8 29 0M9 34h21"/></g>
-<text x="135" y="577" fill="#FFB86A" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Java Projects</text>
-<text x="135" y="599" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Core Java applications</text>
-</g>
+ <rect x="69" y="561" width="486" height="67" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="79" y="566" width="57" height="57" rx="14" fill="#091831" stroke="#FFBE5C" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="83" y="570" width="49" height="49" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(88.5 575.5) scale(0.59375)" color="#FFBE5C" stroke="#FFBE5C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="32" cy="11" r="7"/><circle cx="15" cy="48" r="7"/><circle cx="50" cy="48" r="7"/><path d="M28 17 18 41M36 17l10 24M22 48h21"/></g>
+ <text x="173" y="591" font-size="21" font-weight="700" fill="#FFBE5C">Java Projects —</text><text x="173" y="613" font-size="18" fill="#E2E9FA">Core Java Applications</text>
+ </g>
 <g>
-<rect x="506" y="551" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="514" y="559" width="49" height="49" rx="12" fill="#08213B" stroke="#FF86A5" stroke-opacity=".65"/>
-<g transform="translate(520,565)" stroke="#FF86A5" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M3 31h34M8 29V19h6v10M18 29V12h6v17M28 29V6h6v23"/></g>
-<text x="577" y="577" fill="#FF86A5" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">FinTech Experiments</text>
-<text x="577" y="599" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">[[FINTECH_UPDATED]]</text>
-</g>
+ <rect x="575" y="561" width="469" height="67" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="585" y="566" width="57" height="57" rx="14" fill="#091831" stroke="#FF7CAE" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="589" y="570" width="49" height="49" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(594.5 575.5) scale(0.59375)" color="#FF7CAE" stroke="#FF7CAE" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M9 54h48M14 49V35h10v14M28 49V24h10v25M42 49V13h10v36"/><path d="M14 24 27 18 35 23 49 8m-11 0h11v11"/></g>
+ <text x="679" y="591" font-size="21" font-weight="700" fill="#FF7CAE">FinTech Experiments —</text><text x="679" y="613" font-size="18" fill="#E2E9FA">Trading &amp;amp; Investment Tools</text>
+ </g>
 <g>
-<rect x="64" y="629" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="637" width="49" height="49" rx="12" fill="#08213B" stroke="#33DCCB" stroke-opacity=".65"/>
-<g transform="translate(78,643)" stroke="#33DCCB" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="3" y="5" width="32" height="29" rx="5"/><path d="M10 11h18v9H10zM8 29h24"/></g>
-<text x="135" y="655" fill="#33DCCB" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Networking Labs</text>
-<text x="135" y="677" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Cisco Packet Tracer Labs</text>
+ <rect x="69" y="637" width="486" height="67" rx="17" fill="#06182D" stroke="#174468" stroke-width="1.3"/>
+ <rect x="79" y="642" width="57" height="57" rx="14" fill="#091831" stroke="#2BF2D1" stroke-opacity=".42" stroke-width="1.5"/>
+ <rect x="83" y="646" width="49" height="49" rx="13" fill="url(#iconBg)" opacity=".63"/>
+ <g transform="translate(88.5 651.5) scale(0.59375)" color="#2BF2D1" stroke="#2BF2D1" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M5 24q27-27 54 0M13 33q19-19 38 0M21 42q11-11 22 0"/><circle cx="32" cy="51" r="5"/></g>
+ <text x="173" y="667" font-size="21" font-weight="700" fill="#2BF2D1">Networking Labs —</text><text x="173" y="689" font-size="18" fill="#E2E9FA">Cisco Packet Tracer Labs</text>
+ </g>
+<g clip-path="url(#p2)">
+<ellipse cx="1199" cy="582" rx="200" ry="165" fill="url(#haze)"/>
+<circle cx="1197" cy="562" r="113" fill="url(#planet)" stroke="#127FCB" stroke-width="2.7"/>
+<ellipse cx="1197" cy="562" rx="173" ry="50" transform="rotate(-30 1197 562)" fill="none" stroke="#0097FF" stroke-width="18" opacity=".48" filter="url(#brightGlow)"/>
+<ellipse cx="1197" cy="562" rx="173" ry="50" transform="rotate(-30 1197 562)" fill="none" stroke="url(#orbit)" stroke-width="7"/>
+<ellipse cx="1197" cy="562" rx="174" ry="51" transform="rotate(-30 1197 562)" fill="none" stroke="#D8F8FF" stroke-width="2" stroke-dasharray="295 850"><animate attributeName="stroke-dashoffset" values="0;-1150" dur="19s" repeatCount="indefinite"/></ellipse>
+<circle cx="1068" cy="492" r="15" fill="url(#moon)" stroke="#399AFF" stroke-width="2"/>
+<circle cx="1325" cy="639" r="29" fill="url(#moon)" stroke="#399AFF" stroke-width="2"/>
+<circle cx="1098" cy="695" r="24" fill="url(#moon)" stroke="#399AFF" stroke-width="2"/>
+<path d="M1335 425l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#51DDFE"/>
 </g>
-<!-- 3D-like ringed planet -->
-<g clip-path="url(#clip2)">
-<ellipse cx="1130" cy="559" rx="224" ry="169" fill="url(#haze)"/>
-<circle cx="1139" cy="551" r="102" fill="#0098FB" opacity=".3" filter="url(#glow)"/>
-<circle cx="1139" cy="551" r="94" fill="url(#planet)" stroke="#1292E5" stroke-width="2"/>
-<ellipse cx="1139" cy="551" rx="160" ry="44" transform="rotate(-24 1139 551)" fill="none" stroke="#0E9FF5" stroke-width="12" opacity=".5" filter="url(#glow)"/>
-<ellipse cx="1139" cy="551" rx="161" ry="45" transform="rotate(-24 1139 551)" fill="none" stroke="url(#orbit)" stroke-width="6"/>
-<ellipse cx="1139" cy="551" rx="160" ry="44" transform="rotate(-24 1139 551)" fill="none" stroke="#D4F8FF" stroke-width="1.8" stroke-dasharray="220 790">
-<animate attributeName="stroke-dashoffset" values="0;-1010" dur="16s" repeatCount="indefinite"/>
-</ellipse>
-<circle cx="1036" cy="619" r="14" fill="#0758B2" stroke="#47C3FF" stroke-width="1.5"/>
-<circle cx="1240" cy="456" r="8" fill="#0C74B7"/>
+<rect x="69" y="766" width="82" height="82" rx="18" fill="#091A36" stroke="#13BFFF" stroke-width="2.5" filter="url(#softGlow)"/>
+ <rect x="73" y="770" width="74" height="74" rx="15" fill="url(#iconBg)" stroke="#16B7FB" stroke-width="1.4"/>
+ <g transform="translate(84 780) scale(0.8125)" color="#FFBE5C" stroke="#FFBE5C" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M18 10h28v16c0 27-28 27-28 0ZM18 15H8c0 19 7 23 13 24M46 15h10c0 19-7 23-13 24M32 48v8m-14 0h28"/></g>
+ <text x="177" y="810" class="heading" fill="#F9FBFF">2026</text>
+ <text x="293" y="810" class="heading" fill="#05C9F9">Goals</text>
+ <text x="178" y="840" class="kicker">DISCIPLINE  |  GROWTH  |  BIGGER TOMORROWS</text>
+ <line x1="620" y1="833" x2="992" y2="833" stroke="#08B6EF" stroke-width="1.5"/><circle cx="992" cy="833" r="4.1" fill="#14F3FF"/>
+<rect x="69" y="852" width="486" height="56" rx="15" fill="#07182C" stroke="#204363" stroke-width="1.3"/>
+ <rect x="74" y="857" width="72" height="46" rx="11" fill="#0B2440" stroke="#13CFFF" stroke-opacity=".4" stroke-width="1"/>
+ <g transform="translate(92 865) scale(0.46875)" color="#13CFFF" stroke="#13CFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="30" cy="30" r="25"/><circle cx="30" cy="30" r="15"/><circle cx="30" cy="30" r="5"/><path d="M30 30 56 6m-10 0h10v10"/></g>
+ <text x="163" y="887" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#F0F6FD">Solve <tspan font-weight="700" fill="#13CFFF">500+ DSA Problems</tspan></text>
+<rect x="575" y="852" width="469" height="56" rx="15" fill="#07182C" stroke="#204363" stroke-width="1.3"/>
+ <rect x="580" y="857" width="72" height="46" rx="11" fill="#0B2440" stroke="#2BF2D1" stroke-opacity=".4" stroke-width="1"/>
+ <g transform="translate(598 865) scale(0.46875)" color="#2BF2D1" stroke="#2BF2D1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="32" cy="32" r="12"/><path d="M27 5h10l3 9 9 4 8-4 7 8-5 9v7l5 8-8 9-9-4-8 4-2 9H27l-3-9-8-4-9 4-7-9 5-8v-7l-5-9 7-8 9 4 8-4Z"/></g>
+ <text x="669" y="887" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#F0F6FD">Learn <tspan font-weight="700" fill="#2BF2D1">Backend Development</tspan></text>
+<rect x="69" y="914" width="486" height="56" rx="15" fill="#07182C" stroke="#204363" stroke-width="1.3"/>
+ <rect x="74" y="919" width="72" height="46" rx="11" fill="#0B2440" stroke="#D184FF" stroke-opacity=".4" stroke-width="1"/>
+ <g transform="translate(92 927) scale(0.46875)" color="#D184FF" stroke="#D184FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M18 48C10 43 8 31 12 20S25 6 34 7s21 7 22 21-7 20-12 21M22 49v-7q-11 2-12-7m34 14v-7q11 2 12-7M24 48v-7q-9-12 8-13 17 1 8 13v7"/></g>
+ <text x="163" y="949" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#F0F6FD">Build Strong <tspan font-weight="700" fill="#D184FF">GitHub Portfolio</tspan></text>
+<rect x="575" y="914" width="469" height="56" rx="15" fill="#07182C" stroke="#204363" stroke-width="1.3"/>
+ <rect x="580" y="919" width="72" height="46" rx="11" fill="#0B2440" stroke="#FF7CAE" stroke-opacity=".4" stroke-width="1"/>
+ <g transform="translate(598 927) scale(0.46875)" color="#FF7CAE" stroke="#FF7CAE" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M22 39C25 18 43 9 57 7c0 16-9 34-32 36ZM32 27l5 5M24 42 12 54l4-16M20 23l-9-2 16-8"/><circle cx="44" cy="21" r="5"/></g>
+ <text x="669" y="949" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#F0F6FD">Launch My First <tspan font-weight="700" fill="#FF7CAE">FinTech Project</tspan></text>
+<rect x="69" y="976" width="486" height="56" rx="15" fill="#07182C" stroke="#204363" stroke-width="1.3"/>
+ <rect x="74" y="981" width="72" height="46" rx="11" fill="#0B2440" stroke="#FFBE5C" stroke-opacity=".4" stroke-width="1"/>
+ <g transform="translate(92 989) scale(0.46875)" color="#FFBE5C" stroke="#FFBE5C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M12 18h36v23q-2 12-18 12T12 41ZM48 22h10q3 18-10 20M9 55h42M19 7l-3 6M31 7l-3 6M43 7l-3 6"/></g>
+ <text x="163" y="1011" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#F0F6FD">Master <tspan font-weight="700" fill="#FFBE5C">Java Development</tspan></text>
+<rect x="575" y="976" width="469" height="56" rx="15" fill="#07182C" stroke="#204363" stroke-width="1.3"/>
+ <rect x="580" y="981" width="72" height="46" rx="11" fill="#0B2440" stroke="#13CFFF" stroke-opacity=".4" stroke-width="1"/>
+ <g transform="translate(598 989) scale(0.46875)" color="#13CFFF" stroke="#13CFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"><rect x="9" y="21" width="46" height="31" rx="5"/><path d="M23 21v-9h18v9M9 34h46M28 33v5h8v-5"/></g>
+ <text x="669" y="1011" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#F0F6FD">Secure a <tspan font-weight="700" fill="#13CFFF">Software Engineering Role</tspan></text>
+<g clip-path="url(#p3)">
+<ellipse cx="1192" cy="929" rx="225" ry="214" fill="url(#haze)" opacity=".9"/>
+<path d="M1019 1056L1116 898L1165 958L1242 806L1370 1056Z" fill="url(#mount)" stroke="#15578A" stroke-width="3"/>
+<path d="M1060 1056L1143 940L1178 986L1242 838L1385 1056Z" fill="#061F4A" stroke="#0B3A78" stroke-width="2"/>
+<path d="M1224 833l18-27 21 33-17-10-6 8z" fill="#53C1F4" opacity=".58"/>
+<path d="M1241 807v-47m0 5 36 8-36 9" fill="#14CBF5" stroke="#5FE8FF" stroke-width="2"/>
+<path d="M1119 1051C1116 1029 1140 1029 1179 1012S1269 974 1199 945S1252 895 1244 837" fill="none" stroke="#0077E3" stroke-width="30" opacity=".48" filter="url(#brightGlow)"/>
+<path d="M1119 1051C1116 1029 1140 1029 1179 1012S1269 974 1199 945S1252 895 1244 837" fill="none" stroke="#0DD6FF" stroke-width="5" stroke-linecap="round"/>
 </g>
-<rect x="63" y="721" width="65" height="65" rx="17" fill="#081D38" stroke="#FFCA69" stroke-width="1.8"/>
-<g transform="translate(77,735)" stroke="#FFCA69" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M10 6h18v10q0 11-9 11t-9-11V6zm0 4H4q0 9 7 9m17-9h6q0 9-7 9M19 27v6M12 34h14"/></g>
-<text x="153" y="760" fill="#F9FBFF" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="0">2026</text>
-<text x="246" y="760" fill="#06CBFB" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="800" letter-spacing="0">Goals</text>
-<text x="154" y="786" fill="#99B4D2" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="600" letter-spacing="3">DISCIPLINE   |   GROWTH   |   BIGGER TOMORROWS</text>
-<path d="M618 777H970" stroke="url(#line)" stroke-width="1.4"/>
-<circle cx="970" cy="777" r="4" fill="#2CF4FE"/>
-<g>
-<rect x="64" y="805" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="813" width="49" height="49" rx="12" fill="#08213B" stroke="#46CCFE" stroke-opacity=".65"/>
-<g transform="translate(78,819)" stroke="#46CCFE" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="19" cy="19" r="16"/><circle cx="19" cy="19" r="9"/><path d="M19 2v17l12-8"/></g>
-<text x="135" y="831" fill="#46CCFE" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Solve 500+ DSA Problems</text>
-<text x="135" y="853" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Practice and keep improving</text>
-</g>
-<g>
-<rect x="506" y="805" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="514" y="813" width="49" height="49" rx="12" fill="#08213B" stroke="#50E5CC" stroke-opacity=".65"/>
-<g transform="translate(520,819)" stroke="#50E5CC" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none">undefined</g>
-<text x="577" y="831" fill="#50E5CC" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Learn Backend Development</text>
-<text x="577" y="853" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Build reliable services</text>
-</g>
-<g>
-<rect x="64" y="877" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="885" width="49" height="49" rx="12" fill="#08213B" stroke="#B486FF" stroke-opacity=".65"/>
-<g transform="translate(78,891)" stroke="#B486FF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><circle cx="19" cy="19" r="15"/><path d="M9 25q6-5 10 0q4-5 10 0M12 15l2-5 5 3 5-3 2 5"/></g>
-<text x="135" y="903" fill="#B486FF" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Build Strong GitHub Portfolio</text>
-<text x="135" y="925" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Showcase practical work</text>
-</g>
-<g>
-<rect x="506" y="877" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="514" y="885" width="49" height="49" rx="12" fill="#08213B" stroke="#FF8CAD" stroke-opacity=".65"/>
-<g transform="translate(520,891)" stroke="#FF8CAD" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M11 26l-5 9 10-6M12 21Q17 6 31 4q4 15-11 21l-8-4zm4 4-3 5M29 6l5 5"/><circle cx="24" cy="14" r="3"/></g>
-<text x="577" y="903" fill="#FF8CAD" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Launch My First FinTech Project</text>
-<text x="577" y="925" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Ship an original product</text>
-</g>
-<g>
-<rect x="64" y="949" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="72" y="957" width="49" height="49" rx="12" fill="#08213B" stroke="#FFB85A" stroke-opacity=".65"/>
-<g transform="translate(78,963)" stroke="#FFB85A" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M17 3c5 6-6 9 0 15M11 15c5 4-1 5 1 9M4 27q14 8 29 0M9 34h21"/></g>
-<text x="135" y="975" fill="#FFB85A" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Master Java Development</text>
-<text x="135" y="997" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Stronger coding foundations</text>
-</g>
-<g>
-<rect x="506" y="949" width="426" height="66" rx="14" fill="#07182D" stroke="#224463" stroke-width="1.2"/>
-<rect x="514" y="957" width="49" height="49" rx="12" fill="#08213B" stroke="#3FC4FC" stroke-opacity=".65"/>
-<g transform="translate(520,963)" stroke="#3FC4FC" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M10 6h18v10q0 11-9 11t-9-11V6zm0 4H4q0 9 7 9m17-9h6q0 9-7 9M19 27v6M12 34h14"/></g>
-<text x="577" y="975" fill="#3FC4FC" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="0">Secure Software Engineer Role</text>
-<text x="577" y="997" fill="#AEC1D7" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="400" letter-spacing="0">Grow into engineering</text>
-</g>
-<!-- goal mountain and luminous path -->
-<g clip-path="url(#clip3)">
-<ellipse cx="1149" cy="909" rx="215" ry="181" fill="url(#haze)"/>
-<path d="M935 1007l103-127 62 64 86-153 145 216" fill="#113A6A" stroke="#174A88" stroke-width="2"/>
-<path d="M994 1007l125-128 43 69 51-97 118 156" fill="#0A2B56" stroke="#195398" stroke-width="2"/>
-<path d="M1186 792v-57m0 7 42 12-42 13" fill="#17BBEF" stroke="#4ECFFF" stroke-width="3"/>
-<path d="M992 1006c37-10 59-28 80-44 14-11 7-25 37-36 32-11 28-25 58-42 10-5 12-12 19-22" fill="none" stroke="#0058B9" stroke-width="18" opacity=".55" filter="url(#glow)"/>
-<path d="M992 1006c37-10 59-28 80-44 14-11 7-25 37-36 32-11 28-25 58-42 10-5 12-12 19-22" fill="none" stroke="#1DCBFF" stroke-width="4" stroke-linecap="round"/>
-</g>
-<!-- live data chip: GitHub-grounded, not a progress claim -->
-<rect x="1047" y="370" width="255" height="39" rx="18" fill="#081F39" stroke="#1B81C1"/>
-<circle cx="1069" cy="389" r="5" fill="#21DBB5"/>
-<text x="1082" y="395" fill="#BCEFFF" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="0">[[REPO_COUNT]] public repositories</text>
 </svg>
