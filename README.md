@@ -39,7 +39,7 @@
 <table width="100%">
   <tr>
     <td>
-      <img src="./assets/projects/zenbull.svg.svg" width="100%" alt="💹 ZenBull project artwork" />
+      <img src="https://raw.githubusercontent.com/AnandVB07/AnandVB07/main/assets/projects/zenbull.svg" width="100%" alt="💹 ZenBull project artwork" />
       <h3>💹 ZenBull</h3>
       <p>Market analysis and paper trading with portfolio workflows and risk controls.</p>
       <p><sub>React · FastAPI · Python · SQLAlchemy</sub></p>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td>
-      <img src="./assets/projects/churniq.svg.svg" width="100%" alt="📊 ChurnIQ project artwork" />
+      <img src="https://raw.githubusercontent.com/AnandVB07/AnandVB07/main/assets/projects/churniq.svg" width="100%" alt="📊 ChurnIQ project artwork" />
       <h3>📊 ChurnIQ</h3>
       <p>Customer churn prediction with explainable risk scores and retention insights.</p>
       <p><sub>React · FastAPI · XGBoost · SHAP · PostgreSQL</sub></p>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td>
-      <img src="./assets/projects/atlasula.svg.svg" width="100%" alt="🧭 AtlasUla project artwork" />
+      <img src="https://raw.githubusercontent.com/AnandVB07/AnandVB07/main/assets/projects/atlasula.svg" width="100%" alt="🧭 AtlasUla project artwork" />
       <h3>🧭 AtlasUla</h3>
       <p>AI-assisted travel planning with budgets and trip journals.</p>
       <p><sub>React · TypeScript · Express · Gemini</sub></p>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>
-      <img src="./assets/projects/foodie.svg.svg" width="100%" alt="🍽️ Foodie project artwork" />
+      <img src="https://raw.githubusercontent.com/AnandVB07/AnandVB07/main/assets/projects/foodie.svg" width="100%" alt="🍽️ Foodie project artwork" />
       <h3>🍽️ Foodie</h3>
       <p>Food ordering app with restaurant discovery and account authentication.</p>
       <p><sub>React · Node.js · Express · JWT</sub></p>
@@ -78,7 +78,7 @@
   </tr>
   <tr>
     <td>
-      <img src="./assets/projects/medimei.svg.svg" width="100%" alt="🏥 MediMei project artwork" />
+      <img src="https://raw.githubusercontent.com/AnandVB07/AnandVB07/main/assets/projects/medimei.svg" width="100%" alt="🏥 MediMei project artwork" />
       <h3>🏥 MediMei</h3>
       <p>Healthcare project in progress. More details will be added as the implementation takes shape.</p>
       <p><sub>In progress</sub></p>
@@ -87,7 +87,7 @@
   </tr>
   <tr>
     <td>
-      <img src="./assets/projects/greenmart.svg.svg" width="100%" alt="🌿 GreenMart project artwork" />
+      <img src="https://raw.githubusercontent.com/AnandVB07/AnandVB07/main/assets/projects/greenmart.svg" width="100%" alt="🌿 GreenMart project artwork" />
       <h3>🌿 GreenMart</h3>
       <p>Agriculture marketplace concept for product listings and farmer communities.</p>
       <p><sub>React · Vite · React Router</sub></p>
