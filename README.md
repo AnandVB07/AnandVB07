@@ -1,28 +1,15 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,100:38BDF8&height=220&section=header&text=ANAND%20VB&fontSize=65&fontColor=ffffff&animation=twinkling" />
+<div align="center">
+
+<img src="./assets/readme-hero-animated.svg" width="100%" alt="Animated 3D-style Anand VB hero with moving light rings, orbiting particles and digital waves" />
+
+<p>
+<a href="https://anand-vb.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-0B172B?style=for-the-badge&labelColor=103C68&color=008CE8" alt="Visit portfolio" /></a>&nbsp;
+<a href="https://github.com/AnandVB07?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Projects-0B172B?style=for-the-badge&logo=github&logoColor=white&labelColor=103C68&color=008CE8" alt="View GitHub projects" /></a>
 </p>
 
-<h1 align="center">🚀 Anand VB</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=2000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Java+Developer+%7C+Trader+%26+Investor+%7C+FinTech+Builder+%7C+Startup+Founder" />
-</p>
-
-<p align="center">
-  Building skills, projects, and future startups.
-</p>
-
-<p align="center">
-  <a href="https://anand-vb.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-38BDF8?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AnandVB07">
-    <img src="https://img.shields.io/badge/GitHub-AnandVB07-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+</div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
