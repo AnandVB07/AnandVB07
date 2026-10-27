@@ -36,64 +36,65 @@
 
 ## Featured Projects
 
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <p><img src="./assets/projects/zenbull.svg" width="100%" alt="ZenBull project preview" /></p>
-      <h3>ZenBull</h3>
+    <td>
+      <img src="./assets/projects/zenbull.svg.svg" width="100%" alt="💹 ZenBull project artwork" />
+      <h3>💹 ZenBull</h3>
       <p>Market analysis and paper trading with portfolio workflows and risk controls.</p>
       <p><sub>React · FastAPI · Python · SQLAlchemy</sub></p>
-      <a href="https://github.com/AnandVB07/zenBull"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View ZenBull source code" /></a>
-      <a href="https://zen-bull.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-087EBD?style=for-the-badge&logo=vercel&logoColor=white" alt="Open ZenBull live demo" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <p><img src="./assets/projects/churniq.svg" width="100%" alt="ChurnIQ project preview" /></p>
-      <h3>ChurnIQ</h3>
-      <p>Customer churn prediction with explainable risk scores and retention insights.</p>
-      <p><sub>React · FastAPI · XGBoost · SHAP · PostgreSQL</sub></p>
-      <a href="https://github.com/AnandVB07/ChurnIQ"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View ChurnIQ source code" /></a>
-      <a href="https://churniq-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-7149D8?style=for-the-badge&logo=vercel&logoColor=white" alt="Open ChurnIQ live demo" /></a>
-    </td>
-    <td width="33%" valign="top">
-      <p><img src="./assets/projects/atlasula.svg" width="100%" alt="AtlasUla project preview" /></p>
-      <h3>AtlasUla</h3>
-      <p>AI-assisted travel planning with budgets and trip journals.</p>
-      <p><sub>React · TypeScript · Express · Gemini</sub></p>
-      <a href="https://github.com/AnandVB07/AtlasUla"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View AtlasUla source code" /></a>
-      
+      <a href="https://github.com/AnandVB07/zenBull"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View 💹 ZenBull repository" /></a>
+      <a href="https://zen-bull.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-087EBD?style=for-the-badge&logo=vercel&logoColor=white" alt="Open 💹 ZenBull live demo" /></a>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <p><img src="./assets/projects/foodie.svg" width="100%" alt="Foodie project preview" /></p>
-      <h3>Foodie</h3>
+    <td>
+      <img src="./assets/projects/churniq.svg.svg" width="100%" alt="📊 ChurnIQ project artwork" />
+      <h3>📊 ChurnIQ</h3>
+      <p>Customer churn prediction with explainable risk scores and retention insights.</p>
+      <p><sub>React · FastAPI · XGBoost · SHAP · PostgreSQL</sub></p>
+      <a href="https://github.com/AnandVB07/ChurnIQ"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View 📊 ChurnIQ repository" /></a>
+      <a href="https://churniq-xi.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-087EBD?style=for-the-badge&logo=vercel&logoColor=white" alt="Open 📊 ChurnIQ live demo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/projects/atlasula.svg.svg" width="100%" alt="🧭 AtlasUla project artwork" />
+      <h3>🧭 AtlasUla</h3>
+      <p>AI-assisted travel planning with budgets and trip journals.</p>
+      <p><sub>React · TypeScript · Express · Gemini</sub></p>
+      <a href="https://github.com/AnandVB07/AtlasUla"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View 🧭 AtlasUla repository" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/projects/foodie.svg.svg" width="100%" alt="🍽️ Foodie project artwork" />
+      <h3>🍽️ Foodie</h3>
       <p>Food ordering app with restaurant discovery and account authentication.</p>
       <p><sub>React · Node.js · Express · JWT</sub></p>
-      <a href="https://github.com/AnandVB07/Foodie"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View Foodie source code" /></a>
-      <a href="https://foodie-eosin-five.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-F08C24?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Foodie live demo" /></a>
+      <a href="https://github.com/AnandVB07/Foodie"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View 🍽️ Foodie repository" /></a>
+      <a href="https://foodie-eosin-five.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Open-087EBD?style=for-the-badge&logo=vercel&logoColor=white" alt="Open 🍽️ Foodie live demo" /></a>
     </td>
-    <td width="33%" valign="top">
-      <p><img src="./assets/projects/medimei.svg" width="100%" alt="MediMei project preview" /></p>
-      <h3>MediMei</h3>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/projects/medimei.svg.svg" width="100%" alt="🏥 MediMei project artwork" />
+      <h3>🏥 MediMei</h3>
       <p>Healthcare project in progress. More details will be added as the implementation takes shape.</p>
       <p><sub>In progress</sub></p>
-      <a href="https://github.com/AnandVB07/MediMei"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View MediMei source code" /></a>
-      
+      <a href="https://github.com/AnandVB07/MediMei"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View 🏥 MediMei repository" /></a>
     </td>
-    <td width="33%" valign="top">
-      <p><img src="./assets/projects/greenmart.svg" width="100%" alt="GreenMart project preview" /></p>
-      <h3>GreenMart</h3>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/projects/greenmart.svg.svg" width="100%" alt="🌿 GreenMart project artwork" />
+      <h3>🌿 GreenMart</h3>
       <p>Agriculture marketplace concept for product listings and farmer communities.</p>
       <p><sub>React · Vite · React Router</sub></p>
-      <a href="https://github.com/AnandVB07/GreenMart"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View GreenMart source code" /></a>
-      
+      <a href="https://github.com/AnandVB07/GreenMart"><img src="https://img.shields.io/badge/Code-View%20Repository-17243B?style=for-the-badge&logo=github&logoColor=white" alt="View 🌿 GreenMart repository" /></a>
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/AnandVB07?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-Explore%20Repositories-087EBD?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/AnandVB07?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Projects-Explore%20Repositories-087EBD?style=for-the-badge&logo=github&logoColor=white" alt="Explore all GitHub repositories" /></a>
