@@ -1,4 +1,4 @@
-name: Refresh GitHub profile analytics
+name: Refresh GitHub profile widgets
 
 on:
   workflow_dispatch:
@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - "scripts/generate_analytics.py"
+      - "scripts/generate_profile_panels.py"
       - ".github/workflows/update-profile-analytics.yml"
 
 permissions:
@@ -29,13 +30,15 @@ jobs:
       - name: Fetch real GitHub stats and render SVG
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/generate_analytics.py
+        run: |
+          python scripts/generate_analytics.py
+          python scripts/generate_profile_panels.py
       - name: Commit dashboard only when it changes
         run: |
-          if [ -n "$(git status --porcelain -- assets/github-analytics-live.svg)" ]; then
+          if [ -n "$(git status --porcelain -- assets/github-analytics-live.svg assets/profile-panels-live.svg)" ]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add assets/github-analytics-live.svg
+            git add assets/github-analytics-live.svg assets/profile-panels-live.svg
             git commit -m "chore(profile): refresh live analytics dashboard [skip ci]"
             git push
           else
