@@ -10,6 +10,7 @@ on:
     paths:
       - "scripts/generate_analytics.py"
       - "scripts/generate_profile_panels.py"
+      - "assets/profile-panels-template.svg"
       - ".github/workflows/update-profile-analytics.yml"
 
 permissions:
