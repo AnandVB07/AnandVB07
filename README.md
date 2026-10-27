@@ -52,26 +52,18 @@
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+
+<img src="./assets/connect-with-me-neon.svg" width="100%" alt="Connect with Anand VB: portfolio, LinkedIn, WhatsApp and Resume Folder" />
 
 <p>
-  <a href="https://anand-vb.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/anandvb742006/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-  </a>
-
-  <a href="https://wa.me/919003926880" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
-  </a>
-
-  <a href="https://drive.google.com/drive/folders/1-DoXHPyjytuJ3Yia5czUJYPEhImxTRgU" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="50"/>
-  </a>
+<a href="https://anand-vb.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-061D35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A6FBB" alt="Visit Portfolio" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anandvb742006/"><img src="https://img.shields.io/badge/LinkedIn-Connect-061D35?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A6FBB" alt="Connect on LinkedIn" /></a>
+&nbsp;
+<a href="https://wa.me/919003926880"><img src="https://img.shields.io/badge/WhatsApp-Chat-061D35?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=107F63" alt="Message on WhatsApp" /></a>
+&nbsp;
+<a href="https://drive.google.com/drive/folders/1-DoXHPyjytuJ3Yia5czUJYPEhImxTRgU"><img src="https://img.shields.io/badge/Resume-Folder-061D35?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=964C7F" alt="Open resume folder on Google Drive" /></a>
 </p>
 
-
-⭐ **Code. Create. Build. Repeat.**
-
+</div>
