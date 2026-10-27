@@ -1,0 +1,157 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 446" width="1200" height="446" role="img" aria-labelledby="about-title about-desc">
+<title id="about-title">About Anand VB — developer workspace</title>
+<desc id="about-desc">A neon blue 3D-style developer workspace showing Anand VB's Java, DSA, MERN stack and FinTech interests, with a terminal, a friendly hoodie-wearing programmer, code books, robot and a glowing laptop.</desc>
+<defs>
+<linearGradient id="back" x1="0" x2=".65" y1="0" y2="1"><stop stop-color="#07101F"/><stop offset=".45" stop-color="#0A1526"/><stop offset="1" stop-color="#08101E"/></linearGradient>
+<linearGradient id="term" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D2037"/><stop offset=".65" stop-color="#111D35"/><stop offset="1" stop-color="#18152F"/></linearGradient>
+<linearGradient id="termEdge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#485F78"/><stop offset=".55" stop-color="#188CE0"/><stop offset="1" stop-color="#9965F3"/></linearGradient>
+<linearGradient id="highlight" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#58DAFF"/><stop offset=".52" stop-color="#01A3FC"/><stop offset="1" stop-color="#A08BFF"/></linearGradient>
+<linearGradient id="hoodie" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182A65"/><stop offset=".52" stop-color="#080D27"/><stop offset="1" stop-color="#080917"/></linearGradient>
+<radialGradient id="face" cx=".40" cy=".35" r=".85"><stop stop-color="#FFD0B7"/><stop offset=".52" stop-color="#ECA28A"/><stop offset="1" stop-color="#B26D71"/></radialGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34345B"/><stop offset=".5" stop-color="#13152E"/><stop offset="1" stop-color="#070A1A"/></linearGradient>
+<linearGradient id="laptop" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#273D69"/><stop offset=".35" stop-color="#17233A"/><stop offset="1" stop-color="#121526"/></linearGradient>
+<linearGradient id="desk" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#1B3150"/><stop offset=".25" stop-color="#13213B"/><stop offset="1" stop-color="#080D1C"/></linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#75FCFE"/><stop offset=".55" stop-color="#168DF9"/><stop offset="1" stop-color="#3539A9"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#087DDC" stop-opacity=".35"/><stop offset="1" stop-color="#0663AA" stop-opacity="0"/></radialGradient>
+<filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="16"/></filter>
+<filter id="shad" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="#006AFF" flood-opacity=".26"/></filter>
+<filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00C5FF" flood-opacity=".30"/></filter>
+<clipPath id="frame"><rect width="1200" height="446" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="446" fill="url(#back)"/>
+<ellipse cx="980" cy="325" rx="260" ry="185" fill="url(#glow)"/>
+<ellipse cx="575" cy="105" rx="370" ry="180" fill="#184790" opacity=".11" filter="url(#blur)"/>
+<circle cx="43" cy="17" r="1.6" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-0s" dur="4s" repeatCount="indefinite"/></circle><circle cx="270" cy="120" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-1s" dur="5s" repeatCount="indefinite"/></circle><circle cx="497" cy="223" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-2s" dur="6s" repeatCount="indefinite"/></circle><circle cx="724" cy="326" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-3s" dur="7s" repeatCount="indefinite"/></circle><circle cx="951" cy="1" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-4s" dur="4s" repeatCount="indefinite"/></circle><circle cx="1178" cy="104" r="1.6" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-5s" dur="5s" repeatCount="indefinite"/></circle><circle cx="205" cy="207" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-6s" dur="6s" repeatCount="indefinite"/></circle><circle cx="432" cy="310" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-7s" dur="7s" repeatCount="indefinite"/></circle><circle cx="659" cy="413" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-8s" dur="4s" repeatCount="indefinite"/></circle><circle cx="886" cy="88" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-0s" dur="5s" repeatCount="indefinite"/></circle><circle cx="1113" cy="191" r="1.6" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-1s" dur="6s" repeatCount="indefinite"/></circle><circle cx="140" cy="294" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-2s" dur="7s" repeatCount="indefinite"/></circle><circle cx="367" cy="397" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-3s" dur="4s" repeatCount="indefinite"/></circle><circle cx="594" cy="72" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-4s" dur="5s" repeatCount="indefinite"/></circle><circle cx="821" cy="175" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-5s" dur="6s" repeatCount="indefinite"/></circle><circle cx="1048" cy="278" r="1.6" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-6s" dur="7s" repeatCount="indefinite"/></circle><circle cx="75" cy="381" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-7s" dur="4s" repeatCount="indefinite"/></circle><circle cx="302" cy="56" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-8s" dur="5s" repeatCount="indefinite"/></circle><circle cx="529" cy="159" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-0s" dur="6s" repeatCount="indefinite"/></circle><circle cx="756" cy="262" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-1s" dur="7s" repeatCount="indefinite"/></circle><circle cx="983" cy="365" r="1.6" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-2s" dur="4s" repeatCount="indefinite"/></circle><circle cx="10" cy="40" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-3s" dur="5s" repeatCount="indefinite"/></circle><circle cx="237" cy="143" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-4s" dur="6s" repeatCount="indefinite"/></circle><circle cx="464" cy="246" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-5s" dur="7s" repeatCount="indefinite"/></circle><circle cx="691" cy="349" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-6s" dur="4s" repeatCount="indefinite"/></circle><circle cx="918" cy="24" r="1.6" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-7s" dur="5s" repeatCount="indefinite"/></circle><circle cx="1145" cy="127" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-8s" dur="6s" repeatCount="indefinite"/></circle><circle cx="172" cy="230" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-0s" dur="7s" repeatCount="indefinite"/></circle><circle cx="399" cy="333" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-1s" dur="4s" repeatCount="indefinite"/></circle><circle cx="626" cy="8" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-2s" dur="5s" repeatCount="indefinite"/></circle><circle cx="853" cy="111" r="1.6" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-3s" dur="6s" repeatCount="indefinite"/></circle><circle cx="1080" cy="214" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-4s" dur="7s" repeatCount="indefinite"/></circle><circle cx="107" cy="317" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-5s" dur="4s" repeatCount="indefinite"/></circle><circle cx="334" cy="420" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-6s" dur="5s" repeatCount="indefinite"/></circle><circle cx="561" cy="95" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-7s" dur="6s" repeatCount="indefinite"/></circle><circle cx="788" cy="198" r="1.6" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-8s" dur="7s" repeatCount="indefinite"/></circle><circle cx="1015" cy="301" r="0.8" fill="#4DBDFF" opacity=".5"><animate attributeName="opacity" values=".08;.48;.08" begin="-0s" dur="4s" repeatCount="indefinite"/></circle><circle cx="42" cy="404" r="0.8" fill="#4DBDFF" opacity=".17"><animate attributeName="opacity" values=".08;.48;.08" begin="-1s" dur="5s" repeatCount="indefinite"/></circle>
+<path d="M0 431C212 399 362 448 566 434S1003 413 1200 437" fill="none" stroke="#21598E" opacity=".21"/>
+<path d="M0 419C230 393 360 439 595 426S981 407 1200 420" fill="none" stroke="#2B5B8F" opacity=".18"/>
+<!-- Heading: icon, type, blue underline -->
+<g transform="translate(23 18)">
+<rect x="0" y="0" width="30" height="30" rx="8" fill="#132C57" stroke="#198DE8" stroke-width="1.3"/>
+<rect x="6" y="7" width="18" height="12" rx="2" fill="none" stroke="#4FC3FF" stroke-width="2"/>
+<path d="M10 23h10M15 19v4" stroke="#6CEBFF" stroke-width="2" stroke-linecap="round"/>
+<circle cx="22" cy="7" r="3" fill="#FFBC54"/>
+</g>
+<text x="63" y="43" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="29" fill="#E9EDF9">About Me</text>
+<path d="M24 63H1177" stroke="#596477" stroke-width="1"/>
+<path d="M24 63H160" stroke="#23C6FF" stroke-width="3" filter="url(#soft)"/>
+<!-- Computer terminal window -->
+<rect x="35" y="83" width="669" height="93" rx="19" fill="url(#term)" stroke="url(#termEdge)" stroke-width="1.6"/>
+<path d="M54 85H680" stroke="#A4E7FE" opacity=".10"/>
+<circle cx="65" cy="105" r="7" fill="#FF5266"/>
+<circle cx="88" cy="105" r="7" fill="#FFD04F"/>
+<circle cx="111" cy="105" r="7" fill="#06DC74"/>
+<text x="62" y="154" font-family="Consolas,'Courier New',monospace" font-weight="500" font-size="36" letter-spacing=".6" fill="#15B9FC">$ whoami</text>
+<rect x="252" y="120" width="4" height="39" rx="1.5" fill="#1DCFFF"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.25s" repeatCount="indefinite"/></rect>
+<!-- roadmap dotted guide -->
+<path d="M56 210V389" stroke="#279FEC" stroke-width="2" stroke-opacity=".65"/>
+<circle cx="56" cy="214" r="4.5" fill="#4FD5FF"/>
+<circle cx="56" cy="254" r="4.5" fill="#4FD5FF"/>
+<circle cx="56" cy="295" r="4.5" fill="#4FD5FF"/>
+<circle cx="56" cy="336" r="4.5" fill="#4FD5FF"/>
+<circle cx="56" cy="378" r="4.5" fill="#4FD5FF"/>
+<!-- Row icons -->
+<!-- Java cup -->
+<g transform="translate(82 200)" stroke="#4AC7FF" stroke-width="2.1" fill="none" stroke-linecap="round"><path d="M3 15h25v5q-1 11-12.5 11Q4 31 3 20v-5Z"/><path d="M27 18h5q7 0 1 7l-7 2"/><path d="M9 35h23"/><path d="M13 12q-8-4 0-10M22 12q-7-4 0-9" stroke="#FF776A"/></g>
+<!-- DSA graph -->
+<g transform="translate(85 245)" stroke="#5ADDD4" stroke-width="2.2" fill="none"><path d="M0 24V5M0 24h29"/><rect x="5" y="14" width="5" height="10" rx="1" fill="#26B9B8"/><rect x="14" y="8" width="5" height="16" rx="1" fill="#20D4BE"/><rect x="23" y="1" width="5" height="23" rx="1" fill="#62EAB2"/></g>
+<!-- FinTech rising chart -->
+<g transform="translate(81 285)" stroke="#9E78FF" stroke-width="2.2" stroke-linecap="round" fill="none"><rect x="0" y="2" width="34" height="28" rx="3" fill="#1E2051"/><path d="M4 23l9-8 7 4 10-12M25 7h5v5"/></g>
+<!-- MERN globe -->
+<g transform="translate(84 329)" stroke="#22C9FF" stroke-width="2.3" fill="none"><circle cx="15" cy="15" r="14"/><path d="M1 15h28M15 1c-8 7-8 21 0 28M15 1c8 7 8 21 0 28"/></g>
+<!-- Goal rocket -->
+<g transform="translate(79 361) rotate(35 18 18)"><path d="M17 3C8 11 11 23 16 31C27 25 31 15 25 2C22 1 19 1 17 3Z" fill="#DBE6FF" stroke="#23AFFA" stroke-width="1.4"/><circle cx="20" cy="13" r="4" fill="#56CBFC"/><path d="M12 20L5 27l8-1M23 25l5 7-1-9" fill="#EF7BD6"/><path d="M17 31l3 7 3-7" fill="#FFAD46"/></g>
+<!-- Labels -->
+<g font-family="Arial,Helvetica,sans-serif" font-size="16.6">
+<text x="127" y="223" fill="#3FC8FF" font-weight="800">Java Developer<tspan fill="#E5E8F4" font-weight="400"> passionate about building real-world applications</tspan></text>
+<text x="127" y="263" fill="#E5E8F4">Solving <tspan fill="#4CD8FF" font-weight="800">DSA</tspan> problems and improving problem-solving skills</text>
+<text x="127" y="304" fill="#E5E8F4">Exploring <tspan fill="#3FC8FF" font-weight="800">FinTech</tspan> products and trading systems</text>
+<text x="127" y="345" fill="#3FC8FF" font-weight="800">MERN Stack Developer<tspan fill="#E5E8F4" font-weight="400"> building modern web applications</tspan></text>
+<text x="127" y="388" fill="#3FC8FF" font-weight="800">Goal:<tspan fill="#E5E8F4" font-weight="400"> Become a Software Engineer and build impactful startups</tspan></text>
+</g>
+<!-- right handwritten sticky -->
+<g transform="translate(714 99) rotate(-7)">
+<text x="0" y="0" fill="#A5D4FF" font-family="'Comic Sans MS',cursive" font-size="18" font-style="italic">Build</text>
+<text x="3" y="24" fill="#A5D4FF" font-family="'Comic Sans MS',cursive" font-size="18" font-style="italic">Learn</text>
+<text x="4" y="48" fill="#A5D4FF" font-family="'Comic Sans MS',cursive" font-size="18" font-style="italic">Improve</text>
+<text x="5" y="72" fill="#A5D4FF" font-family="'Comic Sans MS',cursive" font-size="18" font-style="italic">Repeat</text>
+<path d="M1 79h100" stroke="#7AC8FC" stroke-width="1.6"/>
+<path d="M86 29Q114 28 124 71M117 62l7 11 5-12" stroke="#86C9FF" stroke-width="2.2" fill="none"/>
+</g>
+<!-- idea sign -->
+<rect x="1035" y="93" width="151" height="113" rx="14" fill="#12172E" stroke="#3667FF" stroke-width="1.4" filter="url(#shad)"/>
+<rect x="1042" y="100" width="137" height="100" rx="12" fill="#0B1530"/>
+<g transform="translate(1050 114)" stroke="#FFD761" fill="none" stroke-width="2" stroke-linecap="round"><path d="M15 23q-9-8 0-18 11-7 19 2 5 9-3 16l-2 8H20l-3-8"/><path d="M20 34h10M21 38h8M25-2V-8M3 14l-6-2M44 12l5-3"/></g>
+<text x="1095" y="131" font-family="Arial,sans-serif" fill="#77B8FF" font-size="15" font-weight="700">Turning</text>
+<text x="1095" y="152" font-family="Arial,sans-serif" fill="#77B8FF" font-size="15" font-weight="700">Ideas into</text>
+<text x="1095" y="173" font-family="Arial,sans-serif" fill="#77B8FF" font-size="15" font-weight="700">Products</text>
+<!-- shelves and background -->
+<ellipse cx="955" cy="413" rx="250" ry="38" fill="#266FD2" opacity=".17" filter="url(#blur)"/>
+<path d="M714 385h486v60H714Z" fill="url(#desk)"/>
+<path d="M714 385h486" stroke="#346898" stroke-width="2"/>
+<path d="M714 389h486" stroke="#06224D" stroke-width="3" opacity=".65"/>
+<!-- left stack of 3D books -->
+<g font-family="Consolas,monospace" font-size="13" font-weight="700" text-anchor="middle">
+<g><path d="M718 314l80-3 8 9-81 4Z" fill="#42548F"/><path d="M725 324h81v22h-81Z" fill="#0E1B4D" stroke="#3E5796"/><text x="764" y="339" fill="#37DAFF">JAVA</text></g>
+<g><path d="M709 346l91-4 7 9-91 4Z" fill="#3D4C88"/><path d="M716 355h91v22h-91Z" fill="#111950" stroke="#3E5796"/><text x="763" y="370" fill="#48D9FF">DSA</text></g>
+<g><path d="M712 377l89-3 8 9-91 4Z" fill="#344A8B"/><path d="M718 386h91v17h-91Z" fill="#0B1644" stroke="#3E5796"/><text x="762" y="399" fill="#51C6FF">REACT</text></g>
+</g>
+<!-- Hoodie shoulders and torso -->
+<path d="M820 393C809 359 820 315 854 302l23-10 82 2 26 11q30 18 34 89Z" fill="url(#hoodie)" stroke="#183D84" stroke-width="2"/>
+<path d="M865 293q-11 23 18 48l30 13 25-17q22-20 16-42" fill="#0A1029" stroke="#3156A7" stroke-width="3"/>
+<path d="M874 307q22 28 40 28 24-6 30-30" fill="none" stroke="#4D72BA" stroke-width="3"/>
+<path d="M868 324l-2 32M941 321l9 35" stroke="#6A83D4" stroke-width="2"/>
+<path d="M815 370q0-34 14-40 17-6 36 14l14 33" fill="url(#hoodie)" stroke="#28457C" stroke-width="2"/>
+<!-- neck -->
+<path d="M889 271l-6 39q21 28 45 1l-8-39Z" fill="#C88480"/>
+<!-- head and ears -->
+<ellipse cx="925" cy="239" rx="13" ry="20" fill="#E8A089"/>
+<ellipse cx="837" cy="238" rx="12" ry="18" fill="#D89386"/>
+<path d="M841 200q12-43 62-45 51 4 52 52l-5 43q-7 54-51 58-49-7-58-60Z" fill="url(#face)" stroke="#7D555F" stroke-width="1"/>
+<!-- hair voluminous shapes -->
+<path d="M826 217q-15-30 10-54 0-26 29-29 20-27 45-7 34-16 43 8 25 4 27 32 13 24-9 51l-13-13q-4-29-22-32-14 9-30 3-17 19-34 6-14 22-28 19-4 11-10 16Z" fill="url(#hair)" stroke="#333960" stroke-width="1.5"/>
+<path d="M846 158q-8-19 7-27 24 15 37 7M890 146q18-28 36-14M936 156q21-17 34 9M842 184q25 0 31-14M881 164q17 0 27-18" fill="none" stroke="#35427A" stroke-width="5" stroke-linecap="round"/>
+<path d="M834 192q7-7 17-4M954 188q9 8 10 21" fill="none" stroke="#182557" stroke-width="8" stroke-linecap="round"/>
+<!-- eyes and eyebrows -->
+<path d="M850 221q14-9 25 1M900 219q16-12 30 0" stroke="#231729" stroke-width="5" fill="none" stroke-linecap="round"/>
+<ellipse cx="863" cy="235" rx="10.8" ry="13" fill="#FAF8FD"/>
+<ellipse cx="914" cy="233" rx="11" ry="13" fill="#F7F6FC"/>
+<ellipse cx="866" cy="235" rx="6.3" ry="9.5" fill="#493747"/>
+<ellipse cx="916" cy="232" rx="6.4" ry="9.7" fill="#493747"/>
+<circle cx="868" cy="232" r="2.4" fill="#FFFFFF"/>
+<circle cx="918" cy="229" r="2.5" fill="#FFFFFF"/>
+<path d="M893 239q-4 8 2 12" stroke="#B96F73" stroke-width="2.5" fill="none"/>
+<path d="M881 270q13 8 27-2" stroke="#934A60" stroke-width="2.3" stroke-linecap="round" fill="none"/>
+<ellipse cx="849" cy="259" rx="11" ry="5.5" fill="#FF8E8D" opacity=".22"/>
+<ellipse cx="923" cy="257" rx="10" ry="5" fill="#FF8E8D" opacity=".19"/>
+<!-- Thinking hand under cheek -->
+<path d="M927 287q11-10 15-22 2-12 13-14 10-1 11 11-1 12-13 25l-11 23Z" fill="#DB9383" stroke="#B97476" stroke-width="1.5"/>
+<!-- forearm -->
+<path d="M956 294q-7 28-32 51l-18 18 29 18 37-45-7-31" fill="url(#hoodie)" stroke="#36528D" stroke-width="2"/>
+<!-- Laptop and reflection -->
+<path d="M894 308L1075 297q11 0 13 11l-22 95-172 2q-8 0-9-8Z" fill="url(#laptop)" stroke="#7194D0" stroke-width="2.2"/>
+<path d="M899 311l183-11" stroke="#A3BAE1" stroke-width="2" opacity=".5"/>
+<path d="M887 399h184l24 8q3 4-6 6H880q-11 0-7-6Z" fill="#45547D" stroke="#8A9DCC"/>
+<path d="M894 405h170" stroke="#182443" stroke-width="2"/>
+<!-- glowing laptop insignia -->
+<path d="M972 346l15-23 15 23-15 10Z" fill="#52D9FF" opacity=".4" filter="url(#soft)"/>
+<path d="M972 346l15-23 15 23-15 10Z" fill="url(#blue)"/>
+<path d="M978 346h18" stroke="#D6FAFF" stroke-width="2"/>
+<!-- developer coffee -->
+<g transform="translate(803 357)"><ellipse cx="30" cy="43" rx="24" ry="6" fill="#060B18" opacity=".6"/><path d="M8 2h39l-4 39H14Z" fill="#12182C" stroke="#35436B" stroke-width="2"/><path d="M45 11q20-1 14 19l-15 2" stroke="#425577" stroke-width="6" fill="none"/><text x="28" y="27" text-anchor="middle" font-size="21" font-family="Consolas,monospace" font-weight="800" fill="#28D6FF">&lt;/&gt;</text></g>
+<!-- mini cute robot -->
+<g transform="translate(1094 327)">
+<ellipse cx="45" cy="76" rx="52" ry="13" fill="#060A17" opacity=".5"/>
+<path d="M20 43q-18 18-4 36l54 0q15-16 1-36Z" fill="#CFDEFD" stroke="#3F78D0" stroke-width="2"/>
+<rect x="8" y="1" width="74" height="52" rx="25" fill="#C3D8FC" stroke="#5BA8F9" stroke-width="3"/>
+<rect x="15" y="9" width="61" height="33" rx="17" fill="#09172C"/>
+<path d="M31 24q3-8 7 0M53 24q3-8 7 0M39 33q5 6 12 0" stroke="#32EEFF" stroke-width="3" stroke-linecap="round" fill="none"/>
+<circle cx="46" cy="60" r="5" fill="#43D7FF"/>
+<ellipse cx="8" cy="57" rx="11" ry="7" fill="#9FBFF3" transform="rotate(-22 8 57)"/>
+<ellipse cx="83" cy="56" rx="10" ry="7" fill="#9FBFF3" transform="rotate(22 83 56)"/>
+</g>
+<!-- plant at far right -->
+<path d="M1172 384h24l-3 32h-17Z" fill="#8298B3"/>
+<path d="M1184 385q-16-33-31-38 20-7 31 38M1184 386q11-40 16-44-18 5-16 44M1184 384q-2-28-4-42-12 16 4 42" fill="#326A58" stroke="#4F9077" stroke-width="1"/>
+</g>
+</svg>
