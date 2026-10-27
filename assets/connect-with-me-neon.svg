@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1360" height="460" viewBox="0 0 1360 460" role="img" aria-labelledby="title desc">
+<title id="title">Connect With Me - Anand VB</title>
+<desc id="desc">Elegant neon-blue connect panel featuring Portfolio, LinkedIn, WhatsApp and Resume Folder cards, with a glowing laptop and global network illustration.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#030E1E"/><stop offset=".5" stop-color="#081D35"/><stop offset="1" stop-color="#051D42"/></linearGradient>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#01D6FC"/><stop offset="1" stop-color="#187DFF"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#042B57"/><stop offset="1" stop-color="#060D23"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#124F96"/><stop offset=".6" stop-color="#071D45"/><stop offset="1" stop-color="#02102F"/></linearGradient>
+<radialGradient id="planet" cx=".29" cy=".23" r=".85"><stop stop-color="#2386E9" stop-opacity=".8"/><stop offset=".5" stop-color="#07509F"/><stop offset="1" stop-color="#091745"/></radialGradient>
+<radialGradient id="fog"><stop stop-color="#0E87F0" stop-opacity=".4"/><stop offset="1" stop-color="#0E87F0" stop-opacity="0"/></radialGradient>
+<filter id="blur" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="11"/></filter>
+<clipPath id="clip"><rect x="22" y="26" width="1316" height="408" rx="24"/></clipPath>
+</defs>
+<rect width="1360" height="460" fill="#030A16"/>
+<rect x="22" y="26" width="1316" height="408" rx="24" fill="url(#bg)" stroke="url(#edge)" stroke-width="1.9"/>
+<g clip-path="url(#clip)">
+<!-- understated small stars -->
+<g fill="#38CBFF" opacity=".8"><circle cx="1083" cy="74" r="1.7"/><circle cx="1252" cy="98" r="1.6"/><circle cx="1124" cy="173" r="1.8"/><circle cx="1304" cy="291" r="1.3"/></g>
+<circle cx="1174" cy="247" r="165" fill="url(#fog)"/>
+<!-- Globe -->
+<circle cx="1195" cy="192" r="81" fill="url(#planet)" stroke="#1B8FFF" stroke-width="1.8"/>
+<ellipse cx="1195" cy="192" rx="34" ry="81" fill="none" stroke="#249FF5" stroke-opacity=".5" stroke-width="1.3"/>
+<ellipse cx="1195" cy="192" rx="81" ry="27" fill="none" stroke="#1C98F6" stroke-opacity=".6" stroke-width="1.4"/>
+<circle cx="1218" cy="151" r="3.5" fill="#63E6FF"/><circle cx="1144" cy="204" r="3.5" fill="#63E6FF"/>
+<path d="M1144 204l74-53 49 66" fill="none" stroke="#18A5F7" stroke-width="1.4" stroke-opacity=".8"/>
+<!-- Laptop -->
+<path d="M1046 226l193 32-21 132-192-32z" fill="#0A234C" stroke="#2389EF" stroke-width="5"/>
+<path d="M1058 240l167 28-17 111-167-28z" fill="url(#screen)" stroke="#30C6FF" stroke-width="1.6"/>
+<path d="M1091 295l-19 16 18 19m81-21 20 18-26 10" fill="none" stroke="#30D8FF" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M1023 361l197 30 45 22-206-17z" fill="#0D427D" stroke="#2996F0" stroke-width="2"/>
+<path d="M1055 379l150 22" stroke="#247FCB" stroke-width="8" stroke-dasharray="17 6"/>
+<path d="M1042 360l189 32" stroke="#3CD9FF" stroke-opacity=".4" stroke-width="3" filter="url(#blur)"/>
+<!-- orbit / social nodes -->
+<path d="M1017 215q112-139 278-70" fill="none" stroke="#0B75D9" stroke-width="1.4" opacity=".45"/>
+<path d="M1000 365q173 77 312-35" fill="none" stroke="#0B75D9" stroke-width="1.3" opacity=".65"/>
+</g>
+<!-- heading glass link icon -->
+<rect x="66" y="72" width="78" height="77" rx="20" fill="url(#glow)" stroke="#21AFFF" stroke-width="2"/>
+<g transform="translate(88,92)" fill="none" stroke="#17D8FF" stroke-width="6" stroke-linecap="round">
+<path d="M18 24l20-20q12-9 20 1t-1 19L43 37m-3-14L22 41q-12 9-20-1t1-19L17 7"/>
+</g>
+<text x="166" y="126" fill="#F8FBFF" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="800">Connect</text>
+<text x="357" y="126" fill="#09D0F9" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="800">With Me</text>
+<text x="169" y="156" fill="#97B2D1" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="600" letter-spacing="4">LINKS  |  NETWORKING  |  LET'S CONNECT</text>
+<path d="M650 146H953" stroke="url(#edge)" stroke-width="1.7"/><circle cx="954" cy="146" r="5.5" fill="#23E6FA"/>
+<!-- technology style tiles -->
+<g>
+<rect x="68" y="191" width="196" height="162" rx="18" fill="#06192E" stroke="#1A5C8D" stroke-width="1.7"/>
+<rect x="288" y="191" width="196" height="162" rx="18" fill="#06192E" stroke="#1A5C8D" stroke-width="1.7"/>
+<rect x="508" y="191" width="196" height="162" rx="18" fill="#06192E" stroke="#2A579E" stroke-width="1.7"/>
+<rect x="728" y="191" width="196" height="162" rx="18" fill="#06192E" stroke="#755091" stroke-width="1.7"/>
+<!-- portfolio icon -->
+<rect x="125" y="208" width="85" height="83" rx="18" fill="#062B5D" stroke="#0EBDFC" stroke-width="1.5"/>
+<rect x="146" y="226" width="44" height="38" rx="4" fill="none" stroke="#10CFFF" stroke-width="5"/>
+<path d="M146 234h44M154 241h3m8 0h3m-13 11h22" stroke="#10CFFF" stroke-width="3" stroke-linecap="round"/>
+<!-- linkedin icon -->
+<rect x="345" y="208" width="85" height="83" rx="18" fill="#075EA5" stroke="#0DB8FF" stroke-width="1.5"/>
+<text x="365" y="273" fill="#F7FFFF" font-size="61" font-weight="800" font-family="Arial,Helvetica,sans-serif">in</text>
+<!-- WhatsApp symbol, accurately matching the existing wa.me URL -->
+<rect x="565" y="208" width="85" height="83" rx="18" fill="#043F39" stroke="#20E4B1" stroke-width="1.5"/>
+<path d="M587 274l6-13q-10-13 1-27t27-8q14 8 11 24t-18 18q-8 0-14-4z" fill="none" stroke="#60F5C1" stroke-width="5" stroke-linejoin="round"/>
+<path d="M601 239q4 14 18 16" fill="none" stroke="#60F5C1" stroke-width="5" stroke-linecap="round"/>
+<!-- folder document; link is to Drive folder, not an invented PDF -->
+<rect x="785" y="208" width="85" height="83" rx="18" fill="#41213E" stroke="#FD8B9C" stroke-width="1.5"/>
+<path d="M804 226h30l13 13v35h-43zM834 226v14h13M812 250h23M812 260h23" fill="none" stroke="#FFB3C4" stroke-width="4" stroke-linejoin="round"/>
+<g fill="#F2F8FF" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" text-anchor="middle">
+<text x="166" y="328">Portfolio</text><text x="386" y="328">LinkedIn</text><text x="606" y="328">WhatsApp</text><text x="826" y="328">Resume Folder</text>
+</g>
+<path d="M68 381H927" stroke="#185E93" stroke-width="1.4"/>
+<circle cx="78" cy="399" r="5" fill="#13DAF9"/>
+<text x="96" y="406" font-size="19" font-family="Arial,Helvetica,sans-serif" fill="#B7CDE6" letter-spacing="2">Code. Create. Build. </text>
+<text x="319" y="406" font-size="19" font-family="Arial,Helvetica,sans-serif" fill="#05D0FB" letter-spacing="2" font-weight="700">Repeat.</text>
+</svg>
