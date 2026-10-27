@@ -77,7 +77,7 @@
  <rect x="881" y="130" width="439" height="212" rx="16" fill="url(#subtle)" opacity=".7"/>
  <g transform="translate(904 148)"><rect width="36" height="36" rx="12" fill="#173C38"/><path d="M12 11l-7 7 7 7M24 11l7 7-7 7M21 8l-6 20" fill="none" stroke="#86F4DD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
  <text x="957" y="176" fill="#EEF4FF" font-size="26" font-weight="700" font-family="Arial, Helvetica, sans-serif">Backend Technologies</text>
- <line x1="1176" y1="166" x2="1293" y2="166" stroke="#00D9A3" stroke-width="2.3" stroke-opacity=".85"/>
+ <line x1="1279" y1="166" x2="1293" y2="166" stroke="#00D9A3" stroke-width="2.3" stroke-opacity=".85"/>
  <circle cx="1293" cy="166" r="6" fill="#00D9A3"/>
  <g>
     <rect x="956" y="200" width="111" height="105" rx="15" fill="#071422" stroke="#35506E" stroke-width="1.4"/>
@@ -97,7 +97,7 @@
  <rect x="1349" y="130" width="524" height="212" rx="16" fill="url(#subtle)" opacity=".7"/>
  <g transform="translate(1372 148)"><rect width="36" height="36" rx="12" fill="#17375A"/><ellipse cx="18" cy="10" rx="12" ry="5" fill="#2CBBFE"/><path d="M6 10v17c0 7 24 7 24 0V10" fill="#095CC1"/><path d="M6 18c0 7 24 7 24 0M6 25c0 7 24 7 24 0" fill="none" stroke="#67D8FF" stroke-width="2"/></g>
  <text x="1425" y="176" fill="#EEF4FF" font-size="26" font-weight="700" font-family="Arial, Helvetica, sans-serif">Databases</text>
- <line x1="1548" y1="166" x2="1846" y2="166" stroke="#06C9FF" stroke-width="2.3" stroke-opacity=".85"/>
+ <line x1="1591" y1="166" x2="1846" y2="166" stroke="#06C9FF" stroke-width="2.3" stroke-opacity=".85"/>
  <circle cx="1846" cy="166" r="6" fill="#06C9FF"/>
  <g>
     <rect x="1390" y="200" width="111" height="105" rx="15" fill="#071422" stroke="#35506E" stroke-width="1.4"/>
@@ -218,7 +218,7 @@
  <rect x="1349" y="384" width="524" height="217" rx="16" fill="url(#subtle)" opacity=".7"/>
  <g transform="translate(1372 402)"><rect width="36" height="36" rx="12" fill="#4A1940"/><path d="M9 21c0 7 18 7 18 0M18 9c6 4-6 6 0 11M13 26h10" fill="none" stroke="#FFA3C5" stroke-width="2.5" stroke-linecap="round"/></g>
  <text x="1425" y="430" fill="#EEF4FF" font-size="26" font-weight="700" font-family="Arial, Helvetica, sans-serif">Programming Language</text>
- <line x1="1695" y1="420" x2="1846" y2="420" stroke="#F62B7F" stroke-width="2.3" stroke-opacity=".85"/>
+ <line x1="1760" y1="420" x2="1846" y2="420" stroke="#F62B7F" stroke-width="2.3" stroke-opacity=".85"/>
  <circle cx="1846" cy="420" r="6" fill="#F62B7F"/>
  <g>
     <rect x="1464" y="454" width="111" height="105" rx="15" fill="#071422" stroke="#35506E" stroke-width="1.4"/>
