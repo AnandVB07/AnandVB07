@@ -13,19 +13,9 @@
 
 ---
 
-## 👨‍💻 About Me
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%24+whoami;Anand+VB;Java+Developer;MERN+Stack+Developer;FinTech+Builder" />
+  <img src="./assets/about-me-3d.svg" width="100%" alt="About Anand VB: Java Developer, DSA learner, FinTech explorer, MERN Stack Developer and aspiring Software Engineer — illustrated neon coding workspace" />
 </p>
-
-- ☕ Java Developer passionate about building real-world applications
-- 🧩 Solving DSA problems and improving problem-solving skills
-- 📈 Interested in Trading, Investing, and Financial Markets
-- 💹 Exploring FinTech products and trading systems
-- 🌐 Portfolio: https://anand-vb.vercel.app/
-- 🚀 Goal: Become a Software Engineer and build impactful startups
-
 
 ## 💻 Tech Stack
 
