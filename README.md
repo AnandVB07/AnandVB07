@@ -1,172 +1,65 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,100:38BDF8&height=220&section=header&text=ANAND%20VB&fontSize=65&fontColor=ffffff&animation=twinkling" />
-</p>
+<!-- GitHub profile README · Anand VB -->
+<div align="center">
 
-<h1 align="center">🚀 Anand VB</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,55:17335B,100:15B8A6&height=185&section=header&text=Anand%20VB&fontSize=56&fontColor=ffffff&animation=fadeIn" alt="Anand VB banner" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=2000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Java+Developer+%7C+Trader+%26+Investor+%7C+FinTech+Builder+%7C+Startup+Founder" />
-</p>
+### Software Engineering · Full-Stack Development · AI/ML
 
-<p align="center">
-  Building skills, projects, and future startups.
-</p>
+**B.Tech, Artificial Intelligence & Data Science · Sri Krishna College of Technology · Class of 2027**
 
-<p align="center">
-  <a href="https://anand-vb.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-38BDF8?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/AnandVB07">
-    <img src="https://img.shields.io/badge/GitHub-AnandVB07-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+I build practical products at the intersection of software engineering, machine learning, and financial technology.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white)](https://anand-vb.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-v-b-4868352b4/)
+[![Projects](https://img.shields.io/badge/GitHub-Explore%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnandVB07?tab=repositories)
+
+</div>
 
 ---
 
+## About me
 
-## 👨‍💻 About Me
+- **Software engineering:** Java, data structures & algorithms, SQL, React, REST APIs, and backend development.
+- **AI/ML:** Applied machine learning, churn prediction, model evaluation, and explainability.
+- **Product interests:** FinTech, decision-support tools, and user-friendly software.
+- **Problem solving:** 400+ DSA problems practiced across coding platforms.
+- **Currently focused on:** Software engineering internships and graduate roles, interview preparation, and shipping better products.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%24+whoami;Anand+VB;Java+Developer;Trader+%26+Investor;FinTech+Builder" />
-</p>
+## Featured projects
 
-- ☕ Java Developer passionate about building real-world applications
-- 🧩 Solving DSA problems and improving problem-solving skills
-- 📈 Interested in Trading, Investing, and Financial Markets
-- 💹 Exploring FinTech products and trading systems
-- 🌐 Portfolio: https://anand-vb.vercel.app/
-- 🚀 Goal: Become a Software Engineer and build impactful startups
+| Project | What it does | Highlights |
+| --- | --- | --- |
+| **[ZenBull / ValraNow](https://github.com/AnandVB07/zenBull)** | Investment research, simulated trading, and portfolio workflows | React · FastAPI · Python |
+| **[ChurnIQ](https://github.com/AnandVB07/ChurnIQ)** | Customer churn prediction and retention intelligence | XGBoost · SHAP · Python · React |
+| **[AtlasUla](https://github.com/AnandVB07/AtlasUla)** | AI-assisted trip planning and travel budgeting | React · TypeScript · Express |
+| **[KrishiGo](https://github.com/AnandVB07/Krishigo)** | Gamified agricultural learning and engagement | React Native · Firebase |
+| **[AnandPortfolio](https://github.com/AnandVB07/AnandPortfolio)** | Interactive developer portfolio presenting projects and skills | React · Vite · Animations |
 
+**Live portfolio:** [anand-vb.vercel.app](https://anand-vb.vercel.app/)
 
-## 💻 Tech Stack
+## Technologies
 
-### 🎨 Frontend Technologies
+| Area | Tools |
+| --- | --- |
+| **Programming & problem solving** | Java · Python · JavaScript · SQL · DSA |
+| **Frontend** | React · HTML · CSS · Vite |
+| **Backend & APIs** | FastAPI · Node.js · Express · REST APIs |
+| **Data & ML** | pandas · scikit-learn · XGBoost · SHAP |
+| **Databases** | SQLite · MySQL · Firebase |
+| **Developer tools** | Git · GitHub · Docker · Postman · Vercel |
 
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=html" /></td>
-<td><img src="https://skillicons.dev/icons?i=css" /></td>
-<td><img src="https://skillicons.dev/icons?i=js" /></td>
-<td><img src="https://skillicons.dev/icons?i=react" /></td>
-<td><img src="https://skillicons.dev/icons?i=bootstrap" /></td>
-</tr>
-</table>
+## What I'm building and learning
 
-### ⚙️ Backend Technologies
+My goal is to design software that is useful, explainable, and reliable—not just a demo that looks good in screenshots. I am especially interested in end-to-end engineering: understanding the problem, designing the data flow, writing the application, and improving the experience.
 
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
-</tr>
-</table>
-
-### 🗄️ Databases
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
-<td><img src="https://skillicons.dev/icons?i=mysql" /></td>
-<td><img src="https://skillicons.dev/icons?i=postgresql" /></td>
-</tr>
-</table>
-
-### ☁️ Deployment
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=vercel" /></td>
-<td><img src="https://skillicons.dev/icons?i=netlify" /></td>
-</tr>
-</table>
-
-### 🛠️ Development Tools
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=git" /></td>
-<td><img src="https://skillicons.dev/icons?i=github" /></td>
-<td><img src="https://skillicons.dev/icons?i=vscode" /></td>
-<td><img src="https://skillicons.dev/icons?i=postman" /></td>
-<td><img src="https://skillicons.dev/icons?i=figma" /></td>
-</tr>
-</table>
-
-### ☕ Programming Language
-
-<table>
-<tr>
-<td><img src="https://skillicons.dev/icons?i=java" /></td>
-</tr>
-</table>
-
-## 📊 GitHub Analytics
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnandVB07&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&text_color=00E5FF&icon_color=00E5FF&rank_icon=github"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandVB07&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=00E5FF"/>
-</p>
-
-<br>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandVB07&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
-</p>
-
-
-## 📈 Beyond Coding
-
-* 📈 Interested in Stock Market & Investing
-* 💹 Exploring Trading Systems
-* 🤖 Interested in AI + Trading Applications
-* 🚀 Building FinTech Startup Ideas
+For a closer look at my work, visit the [portfolio](https://anand-vb.vercel.app/) or open one of the repositories above. I welcome opportunities to discuss the technical decisions, trade-offs, and challenges behind these projects.
 
 ---
 
-## 🌌 Project Galaxy
+<div align="center">
 
-🌍 DSA Universe – Data Structures & Algorithms
+**Build thoughtfully. Learn continuously. Ship useful software.**
 
-🪐 Java Projects – Core Java Applications
+[Portfolio](https://anand-vb.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/anand-v-b-4868352b4/) · [Repositories](https://github.com/AnandVB07?tab=repositories)
 
-🌕 Networking Labs – Cisco Packet Tracer Labs
-
-⭐ Portfolio Website – Personal Portfolio
-
-☄️ FinTech Experiments – Trading & Investment Tools
-
----
-
-## 🏆 2026 Goals
-
-* Solve 500+ DSA Problems
-* Build Strong GitHub Portfolio
-* Master Java Development
-* Learn Backend Development
-* Launch My First FinTech Project
-* Secure a Software Engineering Role
-
----
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://anand-vb.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" width="50"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/anandvb742006/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-  </a>
-
-  <a href="https://wa.me/919003926880" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="50"/>
-  </a>
-
-  <a href="https://drive.google.com/drive/folders/1-DoXHPyjytuJ3Yia5czUJYPEhImxTRgU" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="50"/>
-  </a>
-</p>
-
-
-⭐ **Code. Trade. Build. Repeat.**
-
+</div>
