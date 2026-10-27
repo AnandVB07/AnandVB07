@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1640" height="900" viewBox="0 0 1640 900">
+<title>Anand VB - Automatically Updated GitHub Analytics</title>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#031021"/><stop offset="1" stop-color="#071729"/></linearGradient>
+<linearGradient id="blue" x2="1" y2="1"><stop stop-color="#00325B"/><stop offset="1" stop-color="#001A30"/></linearGradient>
+<linearGradient id="teal" x2="1" y2="1"><stop stop-color="#003B40"/><stop offset="1" stop-color="#001E29"/></linearGradient>
+<linearGradient id="purple" x2="1" y2="1"><stop stop-color="#30145A"/><stop offset="1" stop-color="#120E31"/></linearGradient>
+<clipPath id="bar"><rect x="976" y="300" width="559" height="30" rx="15"/></clipPath>
+</defs>
+<rect width="1640" height="900" fill="url(#bg)"/>
+<rect x="28" y="33" width="1584" height="830" rx="19" fill="#061326" stroke="#19699F" stroke-width="1.6"/>
+<rect x="48" y="132" width="1544" height="440" rx="20" fill="#041121" stroke="#285677" stroke-width="1.5"/>
+<rect x="68" y="59" width="56" height="54" rx="11" fill="#102947" stroke="#26B5EE"/>
+<rect x="82" y="79" width="8" height="24" rx="3" fill="#3BE3A8"/>
+<rect x="94" y="68" width="8" height="35" rx="3" fill="#24C5EE"/>
+<rect x="106" y="85" width="8" height="18" rx="3" fill="#F376AE"/>
+
+<text x="151" y="101" text-anchor="start" fill="#F5F7FF" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="700">GitHub Analytics</text>
+<text x="79" y="210" text-anchor="start" fill="#F5F7FF" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">ANAND VB&#x27;s</text>
+<text x="277" y="210" text-anchor="start" fill="#0DE1EE" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">GitHub Stats</text>
+<path d="M644 185V537M943 185V537" stroke="#2B5473" stroke-width="2"/>
+<rect x="78" y="234" width="52" height="45" rx="12" fill="#0B2338" stroke="#119DC5"/>
+<g transform="translate(88 241)" fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2l4 9 10 1.5-7 7 1.6 10-8.6-5-8.6 5 1.6-10-7-7L11 11Z"/></g>
+<text x="154" y="263" text-anchor="start" fill="#CBDEF1" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400">Total Stars Earned</text>
+<text x="616" y="263" text-anchor="end" fill="#00E9EF" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">0</text>
+<path d="M151 279H616" stroke="#203E53"/>
+<rect x="78" y="291" width="52" height="45" rx="12" fill="#0B2338" stroke="#119DC5"/>
+<g transform="translate(88 298)" fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="15" cy="15" r="12"/><path d="M15 8v9l6 4"/></g>
+<text x="154" y="320" text-anchor="start" fill="#CBDEF1" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400">Commits (past year)</text>
+<text x="616" y="320" text-anchor="end" fill="#00E9EF" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">93</text>
+<path d="M151 336H616" stroke="#203E53"/>
+<rect x="78" y="348" width="52" height="45" rx="12" fill="#0B2338" stroke="#119DC5"/>
+<g transform="translate(88 355)" fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="3"/><circle cx="6" cy="26" r="3"/><circle cx="25" cy="26" r="3"/><path d="M6 8v15M25 23v-7c0-5-9-4-9-10m0 0-4 4m4-4 4 4"/></g>
+<text x="154" y="377" text-anchor="start" fill="#CBDEF1" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400">Total Pull Requests</text>
+<text x="616" y="377" text-anchor="end" fill="#00E9EF" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">1</text>
+<path d="M151 393H616" stroke="#203E53"/>
+<rect x="78" y="405" width="52" height="45" rx="12" fill="#0B2338" stroke="#119DC5"/>
+<g transform="translate(88 412)" fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="15" cy="15" r="12"/><path d="M15 8v11M15 23v.2"/></g>
+<text x="154" y="434" text-anchor="start" fill="#CBDEF1" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400">Total Issues</text>
+<text x="616" y="434" text-anchor="end" fill="#00E9EF" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">0</text>
+<path d="M151 450H616" stroke="#203E53"/>
+<rect x="78" y="462" width="52" height="45" rx="12" fill="#0B2338" stroke="#119DC5"/>
+<g transform="translate(88 469)" fill="none" stroke="#00E5FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="6" y="2" width="19" height="27" rx="2"/><path d="M6 23h19"/></g>
+<text x="154" y="491" text-anchor="start" fill="#CBDEF1" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400">Repos worked on (past year)</text>
+<text x="616" y="491" text-anchor="end" fill="#00E9EF" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">9</text>
+<circle cx="793" cy="363" r="102" fill="none" stroke="#10384F" stroke-width="2"/>
+<circle cx="793" cy="363" r="82" fill="#052539" stroke="#0B7C94" stroke-width="9"/>
+<circle cx="793" cy="363" r="65" fill="#00CDE0"/>
+<path d="M759 340l10-13 15 9q10-3 20 0l13-9 11 14c18 28 9 42-11 48v21h-49v-20c-20-7-30-26-9-50Z" fill="#041527"/>
+<path d="M765 390q-15 2-20-13" fill="none" stroke="#041527" stroke-width="6" stroke-linecap="round"/>
+<path d="M777 280q16-5 31 0" fill="none" stroke="#00F1F1" stroke-width="8" stroke-linecap="round"/>
+<text x="976" y="210" text-anchor="start" fill="#F6F8FF" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Most Used</text>
+<text x="1151" y="210" text-anchor="start" fill="#00E5EF" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Languages</text>
+<rect x="969" y="295" width="573" height="40" rx="20" fill="#091D30" stroke="#2D506D" stroke-width="1.5"/>
+<g clip-path="url(#bar)">
+<rect x="976.00" y="300" width="215.19" height="30" fill="#F7D94E"/>
+<rect x="1191.19" y="300" width="112.92" height="30" fill="#247DFA"/>
+<rect x="1304.10" y="300" width="94.85" height="30" fill="#FF7B24"/>
+<rect x="1398.95" y="300" width="69.98" height="30" fill="#F65444"/>
+<rect x="1468.94" y="300" width="36.63" height="30" fill="#468FDA"/>
+<rect x="1505.56" y="300" width="28.56" height="30" fill="#963EDC"/>
+</g>
+<circle cx="990" cy="391" r="9" fill="#F7D94E"/>
+<text x="1010" y="399" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">JavaScript</text>
+<text x="1260" y="399" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">38.5%</text>
+<path d="M1010 412H1260" stroke="#1D3952"/>
+<circle cx="1275" cy="391" r="9" fill="#247DFA"/>
+<text x="1295" y="399" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">TypeScript</text>
+<text x="1545" y="399" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">20.2%</text>
+<path d="M1295 412H1545" stroke="#1D3952"/>
+<circle cx="990" cy="453" r="9" fill="#FF7B24"/>
+<text x="1010" y="461" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">Jupyter Noteb...</text>
+<text x="1260" y="461" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">17.0%</text>
+<path d="M1010 474H1260" stroke="#1D3952"/>
+<circle cx="1275" cy="453" r="9" fill="#F65444"/>
+<text x="1295" y="461" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">HTML</text>
+<text x="1545" y="461" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">12.5%</text>
+<path d="M1295 474H1545" stroke="#1D3952"/>
+<circle cx="990" cy="515" r="9" fill="#468FDA"/>
+<text x="1010" y="523" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">Python</text>
+<text x="1260" y="523" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">6.6%</text>
+<circle cx="1275" cy="515" r="9" fill="#963EDC"/>
+<text x="1295" y="523" text-anchor="start" fill="#DCE8F6" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">CSS</text>
+<text x="1545" y="523" text-anchor="end" fill="#04E5EE" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700">5.1%</text>
+<rect x="52" y="602" width="488" height="237" rx="20" fill="url(#blue)" stroke="#099CEB" stroke-width="1.6"/>
+<rect x="80" y="635" width="90" height="90" rx="17" fill="#092038" stroke="#099CEB"/>
+<g transform="translate(110 664)" fill="none" stroke="#099CEB" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 27V16M10 27V11M18 27V18M26 27V4"/></g>
+<text x="200" y="691" text-anchor="start" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700">145</text>
+<text x="200" y="735" text-anchor="start" fill="#E6F4FF" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Total Contributions</text>
+<text x="83" y="804" text-anchor="start" fill="#A2BED4" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">Since Aug 2024</text>
+<rect x="414" y="777" width="14" height="22" rx="6" fill="#0E8BC7" opacity=".20"/>
+<rect x="438" y="761" width="14" height="38" rx="6" fill="#0E8BC7" opacity=".20"/>
+<rect x="462" y="749" width="14" height="50" rx="6" fill="#0E8BC7" opacity=".20"/>
+<rect x="486" y="733" width="14" height="66" rx="6" fill="#0E8BC7" opacity=".20"/>
+<rect x="510" y="717" width="14" height="82" rx="6" fill="#0E8BC7" opacity=".20"/>
+<rect x="576" y="602" width="488" height="237" rx="20" fill="url(#teal)" stroke="#00D8CB" stroke-width="1.6"/>
+<rect x="604" y="635" width="90" height="90" rx="17" fill="#092038" stroke="#00D8CB"/>
+<g transform="translate(634 664)" fill="none" stroke="#00D8CB" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 2c3 8-3 10 0 14 4-2 5-5 5-7 8 10 3 21-7 21C4 30 0 17 10 9c0 5 1 7 3 9-1-7 0-11 4-16Z"/></g>
+<text x="724" y="691" text-anchor="start" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700">2</text>
+<text x="724" y="735" text-anchor="start" fill="#E6F4FF" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Current Streak</text>
+<text x="607" y="804" text-anchor="start" fill="#A2BED4" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">26 Oct 2026 - 27 Oct 2026</text>
+<path d="M887 779q38-55 76-20t73-39" fill="none" stroke="#09CBCB" stroke-width="4" opacity=".32"/>
+<rect x="1100" y="602" width="488" height="237" rx="20" fill="url(#purple)" stroke="#8D4CFF" stroke-width="1.6"/>
+<rect x="1128" y="635" width="90" height="90" rx="17" fill="#092038" stroke="#8D4CFF"/>
+<g transform="translate(1158 664)" fill="none" stroke="#8D4CFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4h13v8c0 10-13 10-13 0V4Zm0 2H4v3c0 5 5 7 8 7M22 6h5v3c0 5-5 7-8 7M16 20v6m-7 2h14"/></g>
+<text x="1248" y="691" text-anchor="start" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700">3</text>
+<text x="1248" y="735" text-anchor="start" fill="#E6F4FF" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Longest Streak</text>
+<text x="1131" y="804" text-anchor="start" fill="#A2BED4" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">13 Aug 2026 - 15 Aug 2026</text>
+<rect x="1464" y="778" width="14" height="21" rx="6" fill="#905CFA" opacity=".24"/>
+<rect x="1488" y="762" width="14" height="37" rx="6" fill="#905CFA" opacity=".24"/>
+<rect x="1512" y="747" width="14" height="52" rx="6" fill="#905CFA" opacity=".24"/>
+<rect x="1536" y="729" width="14" height="70" rx="6" fill="#905CFA" opacity=".24"/>
+<text x="1566" y="855" text-anchor="end" fill="#7697B5" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="400">Updated 27 Oct 2026 · 08:39 UTC · scheduled refresh</text>
+</svg>
