@@ -34,12 +34,6 @@
 
 ---
 
-## 🐉 Contribution Quest
-
-<p align="center">
-  <img src="./assets/contribution-dragon.svg" width="100%" alt="Animated dragon collecting crystals from a GitHub-style contribution grid" />
-</p>
-
 ## Featured Projects
 
 <p><sub>Real Projects &nbsp; | &nbsp; Practical Solutions &nbsp; | &nbsp; Built with Passion</sub></p>
