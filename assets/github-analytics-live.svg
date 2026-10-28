@@ -99,7 +99,29 @@
 <text x="724" y="691" text-anchor="start" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="50" font-weight="700">2</text>
 <text x="724" y="735" text-anchor="start" fill="#E6F4FF" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700">Current Streak</text>
 <text x="607" y="804" text-anchor="start" fill="#A2BED4" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400">26 Oct 2026 - 27 Oct 2026</text>
-<path d="M887 779q38-55 76-20t73-39" fill="none" stroke="#09CBCB" stroke-width="4" opacity=".32"/>
+<rect x="878" y="675" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="898" y="675" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="918" y="675" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="938" y="675" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="958" y="675" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="978" y="675" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="998" y="675" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="878" y="694" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="898" y="694" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="918" y="694" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="938" y="694" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="958" y="694" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="978" y="694" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="998" y="694" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="878" y="713" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="898" y="713" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="918" y="713" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="938" y="713" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="958" y="713" width="13" height="13" rx="3" fill="#142B3D"/>
+<rect x="978" y="713" width="13" height="13" rx="3" fill="#39DD91"/>
+<rect x="998" y="713" width="13" height="13" rx="3" fill="#39DD91"/>
+<path d="M 884.5 681.5 L 904.5 681.5 L 924.5 681.5 L 944.5 681.5 L 964.5 681.5 L 984.5 681.5 L 1004.5 681.5 L 1004.5 700.5 L 984.5 700.5 L 964.5 700.5 L 944.5 700.5 L 924.5 700.5 L 904.5 700.5 L 884.5 700.5 L 884.5 719.5 L 904.5 719.5 L 924.5 719.5 L 944.5 719.5 L 964.5 719.5 L 984.5 719.5 L 1004.5 719.5" fill="none" stroke="#2AD98C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 7" opacity=".9"><animate attributeName="stroke-dashoffset" values="0;-15" dur="1s" repeatCount="indefinite"/></path>
+<g><circle r="6" fill="#B9FFD7" stroke="#12BF77" stroke-width="2"><animateMotion dur="6s" repeatCount="indefinite" rotate="auto" path="M 884.5 681.5 L 904.5 681.5 L 924.5 681.5 L 944.5 681.5 L 964.5 681.5 L 984.5 681.5 L 1004.5 681.5 L 1004.5 700.5 L 984.5 700.5 L 964.5 700.5 L 944.5 700.5 L 924.5 700.5 L 904.5 700.5 L 884.5 700.5 L 884.5 719.5 L 904.5 719.5 L 924.5 719.5 L 944.5 719.5 L 964.5 719.5 L 984.5 719.5 L 1004.5 719.5"/></circle><circle r="1.5" cx="2" cy="-2" fill="#0B2832"><animateMotion dur="6s" repeatCount="indefinite" rotate="auto" path="M 884.5 681.5 L 904.5 681.5 L 924.5 681.5 L 944.5 681.5 L 964.5 681.5 L 984.5 681.5 L 1004.5 681.5 L 1004.5 700.5 L 984.5 700.5 L 964.5 700.5 L 944.5 700.5 L 924.5 700.5 L 904.5 700.5 L 884.5 700.5 L 884.5 719.5 L 904.5 719.5 L 924.5 719.5 L 944.5 719.5 L 964.5 719.5 L 984.5 719.5 L 1004.5 719.5"/></circle></g>
 <rect x="1100" y="602" width="488" height="237" rx="20" fill="url(#purple)" stroke="#8D4CFF" stroke-width="1.6"/>
 <rect x="1128" y="635" width="90" height="90" rx="17" fill="#092038" stroke="#8D4CFF"/>
 <g transform="translate(1158 664)" fill="none" stroke="#8D4CFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4h13v8c0 10-13 10-13 0V4Zm0 2H4v3c0 5 5 7 8 7M22 6h5v3c0 5-5 7-8 7M16 20v6m-7 2h14"/></g>
