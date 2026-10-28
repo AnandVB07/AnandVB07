@@ -29,6 +29,11 @@
   <a href="https://github.com/AnandVB07">
     <img src="./assets/github-analytics-live.svg" width="100%" alt="Live GitHub Analytics: GitHub statistics, most used languages, total contributions, current streak and longest streak" />
   </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnandVB07/AnandVB07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnandVB07/AnandVB07/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AnandVB07/AnandVB07/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake eating the GitHub contribution grid" />
+  </picture>
   <sub>Automatically refreshed from GitHub every 6 hours. Scheduled updates may be delayed by GitHub Actions.</sub>
 </div>
 
