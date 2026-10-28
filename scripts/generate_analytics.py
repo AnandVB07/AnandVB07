@@ -209,24 +209,7 @@ for x,color,fill,ico,num,label,detail in cards:
         for i,h in enumerate([22,38,50,66,82]):
             parts.append(f'<rect x="{x+362+i*24}" y="{799-h}" width="14" height="{h}" rx="6" fill="#0E8BC7" opacity=".20"/>')
     elif ico=="flame":
-        # A compact, data-backed contribution grid lives inside the Current Streak card.
-        # The snake path sweeps across the actual contribution squares from the last 21 days.
-        grid_x,grid_y=x+302,675
-        cell_w,cell_h,step_x,step_y=13,13,20,19
-        recent_days=[TODAY-timedelta(days=20-i) for i in range(21)]
-        for idx,day in enumerate(recent_days):
-            row,col=divmod(idx,7)
-            count=int(daily.get(day.isoformat(),0))
-            color=("#142B3D" if count==0 else "#0B553B" if count==1 else
-                   "#0E8B5A" if count<=3 else "#17B978" if count<=7 else "#46E99C")
-            parts.append(f'<rect x="{grid_x+col*step_x}" y="{grid_y+row*step_y}" width="{cell_w}" height="{cell_h}" rx="3" fill="{color}"/>')
-        points=[]
-        for col in range(7):points.append((grid_x+cell_w/2+col*step_x,grid_y+cell_h/2))
-        for col in range(6,-1,-1):points.append((grid_x+cell_w/2+col*step_x,grid_y+step_y+cell_h/2))
-        for col in range(7):points.append((grid_x+cell_w/2+col*step_x,grid_y+2*step_y+cell_h/2))
-        snake_d="M "+" L ".join(f"{px:.1f} {py:.1f}" for px,py in points)
-        parts.append(f'<path d="{snake_d}" fill="none" stroke="#2AD98C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 7" opacity=".9"><animate attributeName="stroke-dashoffset" values="0;-15" dur="1s" repeatCount="indefinite"/></path>')
-        parts.append(f'<g><circle r="6" fill="#B9FFD7" stroke="#12BF77" stroke-width="2"><animateMotion dur="6s" repeatCount="indefinite" rotate="auto" path="{snake_d}"/></circle><circle r="1.5" cx="2" cy="-2" fill="#0B2832"><animateMotion dur="6s" repeatCount="indefinite" rotate="auto" path="{snake_d}"/></circle></g>')
+        parts.append(f'<path d="M{x+311} 779q38-55 76-20t73-39" fill="none" stroke="#09CBCB" stroke-width="4" opacity=".32"/>')
     else:
         for i,h in enumerate([21,37,52,70]):
             parts.append(f'<rect x="{x+364+i*24}" y="{799-h}" width="14" height="{h}" rx="6" fill="#905CFA" opacity=".24"/>')
